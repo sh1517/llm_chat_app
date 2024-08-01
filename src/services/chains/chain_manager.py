@@ -1,5 +1,6 @@
 from services.templates import chat_template
 from services.apis import bedrock_api_connector
+from services.retrievers.retriever_manager import RetrieverManager
 
 from models.basic_chat_request import BasicChatRequest
 
@@ -9,6 +10,8 @@ from langchain_core.runnables import RunnablePassthrough, RunnableParallel
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_core.chat_history import BaseChatMessageHistory
+from langchain.globals import set_debug
+set_debug(True)
 
 store = {}
 
@@ -17,7 +20,7 @@ def get_session_history(session_id: str) -> BaseChatMessageHistory:
         store[session_id] = ChatMessageHistory()
     return store[session_id]
 
-def chain_maker(memory=False, prompt=None, model_params=None, vector_db=False):
+def chain_maker(memory=False, prompt=None, model_params=None, vector_db=False, retrievers=False):
     prompt = prompt if prompt is not None else chat_template.simple_chat_template()
 
     haiku = bedrock_api_connector.get_bedrock_llm_model(model_name='Anthropic Claude v3 Haiku', model_params=model_params)
@@ -46,6 +49,13 @@ def chain_maker(memory=False, prompt=None, model_params=None, vector_db=False):
             | llm
             | StrOutputParser()
         )
+    elif retrievers:
+        chain = (
+            {"source_documents": RetrieverManager().retrievers["manual"], "input": RunnablePassthrough()}
+            | prompt
+            | llm
+            | StrOutputParser()
+        )
     else:
         chain = (
             {"input": RunnablePassthrough()} 
@@ -69,15 +79,16 @@ class ChainManager:
         self.chains['basic'] = chain_maker(memory=False, prompt=chat_template.simple_chat_template())
         self.chains['memory'] = chain_maker(memory=True, prompt=chat_template.memory_chat_template())
         self.chains['knowledge'] = chain_maker(memory=True, prompt=chat_template.rag_chat_template(), vector_db=True)
+        self.chains['retrievers'] = chain_maker(memory=False, prompt=chat_template.rag_chat_template(), retrievers=True)
         self.chains['multi_turn_extractor'] = chain_maker(memory=False, prompt=chat_template.multi_turn_chat_template())
 
-    def simple_chat_chain(self, basic_chat_request: BasicChatRequest):
-        return self.chains['basic'].invoke(basic_chat_request.message)
+    def simple_chat_chain(self, message: str):
+        return self.chains['basic'].invoke(message)
         # return basic_chat_request.message
 
-    def memory_chat_chain(self, basic_chat_request: BasicChatRequest):
-        return self.chains['memory'].invoke({'input': basic_chat_request.message},  
-                                            config={"configurable": {"session_id": basic_chat_request.session_id}})
+    def memory_chat_chain(self, message: str, session_id: str):
+        return self.chains['memory'].invoke({'input': message},  
+                                            config={"configurable": {"session_id": session_id}})
 
     def multi_turn_extractor_chain(self, message: str):
         return self.chains['multi_turn_extractor'].invoke(message)
@@ -86,3 +97,13 @@ class ChainManager:
         return self.chains['knowledge'].invoke({'input': basic_chat_request.message, 
                                                 "source_documents": basic_chat_request.multi_turn},  
                                                 config={"configurable": {"session_id": basic_chat_request.session_id}})
+
+    def stream_chat_chain(self, message: str):
+        chunks = self.chains['basic'].stream(message)
+
+        for chunk in chunks:
+            print(chunk)
+            yield chunk
+
+    def retriever_chat_chain(self, message: str):
+        return self.chains['retrievers'].invoke(message)

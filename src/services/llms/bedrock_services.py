@@ -1,3 +1,5 @@
+from fastapi.responses import StreamingResponse
+
 from langchain.output_parsers.json import parse_and_check_json_markdown
 
 from services.chains.chain_manager import ChainManager
@@ -11,10 +13,10 @@ class BedrockService:
         self.chain_manager = ChainManager()
 
     def simple_chat(self, basic_chat_request: BasicChatRequest):
-        return self.chain_manager.simple_chat_chain(basic_chat_request)
+        return self.chain_manager.simple_chat_chain(basic_chat_request.message)
     
     def memory_chat(self, basic_chat_request: BasicChatRequest):
-        return self.chain_manager.memory_chat_chain(basic_chat_request)
+        return self.chain_manager.memory_chat_chain(basic_chat_request.message, basic_chat_request.session_id)
     
     def multiturn_chat(self, basic_chat_request: BasicChatRequest):
 
@@ -38,3 +40,10 @@ class BedrockService:
         else:
             basic_chat_request.multi_turn = multi_turn_filter
             return self.chain_manager.knowledge_chat_chain(basic_chat_request)
+    
+    def stream_chat(self, basic_chat_request: BasicChatRequest):
+        return StreamingResponse(self.chain_manager.stream_chat_chain(basic_chat_request.message),
+                                 media_type='text/event-stream')
+    
+    def retriever_chat(self, basic_chat_request: BasicChatRequest):
+        return self.chain_manager.retriever_chat_chain(basic_chat_request.message)
