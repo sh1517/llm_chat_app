@@ -1,0 +1,11991 @@
+Error Code 51: Vehicle Speed Sensor Abnormality 21/2/71 1/3/20
+N/M
+1/2
+Related portion WELLS
+CN20
+CN141-5 (324,SS+)
+SCPU board
+rpm sensor
+CN141-15 (325,SS-)
+SCPE
+YPM25211
+Estimated causes
+1
+Rotary sensor defect
+2
+Open circuit of harness
+3
+SCPU board defect
+SCRVEN
+5-114
+For 51-1
+T CH2010L -2 KLO/ZN SST2E
+Short-circuit between CN20-1 and
+-2 by SST2.
+oklahoma
+10/3/82
+Error occurs.
+No error
+>2/22/2017 1222
+Rotary sensor defect
+Short-circuit between CN 1141-5
+No error
+and CN141-15
+Error occurs.
+Open circuit of harness (inspection)
+SCPU board defect
+SCPU-EL 122.
+For 51-2
+05V01/54
+Inspection 1
+SCPU
+CN141-5 (324)
+0.5 V or more
+SCPU board defect
+voltage check
+CN141-16 (315)
+0.5V0/FL
+Less than 0.5 V
+Inspection 2 WALL
+0.5V01/LL
+Disconnect CN20
+0.5 V or more
+CN141-5 (324)
+Rotary sensor defect
+voltage check
+CN141-16 (315)
+Less than 0.5 V 0.50181-
+Harness defect
+*
+51-1
+2421-9450 2/24 94501
+4012 401 o/cho dia #1915 0L4 22
+DOURST-2)
+5-115
+Inspection 1 <for 51-2>:
+7
+Battery Rotary plug ON, signal key voltage switch ON check AMERICAN 1
+sensor
+Measurement terminals
+CN141-5 (324) + - CN141-16 (315)
+-
+Tester range 1/22/1929
+DC 10 V
+Standard
+7/3
+0.5 V or more 0.5V016
+CN141
++
+87654321
+0
+1817161514131211109
+CN141
+Rill
+0.5V0V SCPU this
+OK (0.5 V or more) SCPU board defect
+NG (less than 0.5V) Go to Inspection 2.
+0.5V0101- 22122 nut
+Inspection 2
+Rotary sensor
+<for signal 51-2>: voltage check 2 ByEtel andon, CH20 22
+Battery plug ON, key switch ON, CN20 disconnection
+ZEAR
+Measurement terminals
+CN141-5 (324) + - CN141-16 (315)
+-
+Tester range (132) 1029
+DC 10 V
+Standard 7/5
+0.5 V or more 05V016
+CN141
++
+8765
+4321
+@
+ilo
+1817161514131211109
+CN141
+Riss
+o,Svolsc)
+8/9 12A7 the
+OK (0.5 V or more)
+Rotary sensor defect
+NG (less than 0.5 V)
+Harness defect
+(0.5V017)
+5-116
+GIZZE52
+
+Error Code 54: Swing Solenoid Abnormality
+G7/212E54 92101 ulage
+Related portion (GS)
+2631123
+CN94
+CN148-1 (327,SOLS+)
+4
+Swing
+DC/SD
+solenoid
+board
+CN148-6 (328,SOLS-)
+3
+DC/SP
+E
+-23/0/1215)
+/23/2015
+(252)
+ZERRY
+Estimated causes
+1
+Swing solenoid defect gold Izalizate pl
+3
+DC/SD board defect DC/SD EL his
+2
+Short or open circuit of harness 4
+SCPU board defect SCPUE Ezely
+54-101-0984
+<For 54-1>
+Disconnect CN 148 CN14BQ 501 AZICE
+Inspection 1 RAIL
+CN148-1 (327)
+I
+resistance check Harry
+CN148-6 (328)
+25cala
+5.59+19 2580119
+01/01/20
+other than 5.50 + 1 C
+SETSEXA2
+(at 25°C)
+(at 25°C)
+CN146 2LCN147 stolel
+Inspection 2 WAL
+ANL.: ACTIVE
+Disconnect CN94
+Replace the harness between
+CN146 and CN 147 with SST5
+CN94-4 (327)
+and turn the swing solenoid ON.
+resistance check
+7dt (SMA56)
+(See page 5-8).
+CN94-3 (320)
+HALL
+745
+Check signal "1":
+Check signal "0":
+5.59+19
+other than 5.5 S + 1 S2011
+Normal
+Abnormal,
+0181012
+CN146 CHILM
+Main harness
+Swing solenoid
+CN146-CN147
+SCPU board
+78784
+defect
+defect
+harness defect
+defect
+1231/2015
+DC/SD board defect
+SCPU
+1225
+DC/SD 1228
+5328
+5-119
+32AL (54-D
+Inspection 1 <for 54-1>:
+Swing CN148 1 OFF, (N148 32)
+solenoid resistance check
+Battery plug OFF, disconnection
+27823
+Measurement terminals
+CN148-1 (327) + - CN148-6 (328)
+-
+Tester range bal
+S X 1
+Standard
+7/3
+5.5 + 19 (at 25°C) 25c919 55112
+CN148
++
+0
+0
+3
+21
+87654
+CN148
+(DC/SD board side)
+OK (5.5 + 192)
+Go to ANL.: ACTIVE. ANL: ACTIVE 71-21-
+NG (other than 5.5 + Su)
+Go to Inspection 2. 5.5 I/
+Inspection 2 <for 54-1>: BILL (54-17) - 12/11/201E not 2412
+Swing solenoid resistance check 2
+Battery plug OFF, CN94 disconnection ONERY OFF, (N94132)
+77323
+Measurement terminals
+CN94-4 (327) + - CN94-3 (320)
+-
+Tester range /2021/2029
+Sex 1
+Standard
+7/3
+5.5 + 10 (at 25°C) 25°C91995,511.12
+CPV
+P14,P15,P16
+Controller
+CPU board
+B
+CN94
+OK (5.5 + 1 92)
+Main harness defect
+NG (other than 5.5 + S
+Swing solenoid defect
+5.5 I Antoly
+2222(3)%)
+olelel No
+5-120
+54-2011944
+CHI 462L CN147Note
+<For 54-2>
+(25)/23/20/5 Acz
+ZAKLE
+ANL.: ACTIVE
+Replace the harness between CN 146 and
+CN147 with SST5 and check the swing
+solenoid signal (without turning the solenoid
+ON).
+"1"
+"0"
+CN146-CN14135783
+SCPU board defect
+CN146-CN147 harness defect
+DC/SD board defect + DCSD
+SCPU& 12/2
+08/27/2017 6/3/16
+5-121
+
+Error Code 64: Lift Solenoid Abnormality
+Related portion
+CN88
+CPV&
+CN103-1 (3,SOLL+)
+CPU board
+Lift solenoid
+CN103-2 (4,SOLL-)
+Estimated causes
+1
+Lift solenoid defect Ener 12/11/2015 172/6
+2
+Open or short circuit of harness CLASS ME
+3
+CPU board defect
+<For 64-1>
+A 7/22/91 energy 2 #12 1231/201E NY
+Error 64-1
+Exchange the tilt and lift solenoids
+occurs.
+Inspection 1 22AL
+NG (10V0}%)
+and then turn the key switch to ON.
+CN103-1 (3)
++
+(less than 10 V)
+voltage check
+*
+As the solenoid
+No error 64-1
+CN103-2 (4)
+energizes upon
+key switch ON, do
+01264482
+not operate the
+OK lovolo
+CPU board defect
+material handling
+lever.
+(10 V or more)
+Lift solenoid defect
+CPV-to
+71,191 It
+(9522)
+Open circuit of harness
+23/2004
+75 12E
+(64-201040)
+5-131
+<For 64-2>
+7/2/1015 /22/190k 3
+716973 TICL
+01/21/64-2048
+4
+Error 64-2
+Exchange the tilt and lift solenoids
+occurs.
+Inspection 12344 CH882LCH1032
+32/4/210L
+and then turn the key switch to ON.
+Disconnect CN88 and CN103.
+OK:
+Open (00 S2)
+CN103-1 (3)
++
+*
+As the solenoid
+energizes upon
+No error 64-2
+resistance check
+74108 (0052)
+key switch ON, do
+01264284
+CN103-2 (4)
+-
+not operate the
+material handling
+NG LLCL (4/20/2017)
+lever.
+Lift solenoid defect
+NG: Short
+CPU board defect
+7/1993 ONSEMAN
+(20 So or less)
+CPV
+421/20/1 E)/ 22/02/001
+Open circuit of harness
+123 387/1912
+7201
+0/0- 1715 6th
+5-132
+MIN
+Inspection 1 <for 64-1>:
+Lift solenoid signal voltage check
+Battery plug ON, key switch for ON measurement. MEdz Ennon . 71APRION MODULL
+* Use the analog tester
+Measurement terminals
+CN103-1 (3) + - CN103-2 (4)
+-
+Tester range 1/23/1929
+DC 50 V
+Standard
+7/5
+10 V or more
+lov 0/12
+O+
+CN103
+CN103
+321 4321 87654
+87
+5141312
+2120191817
+1918/1615141312 28272625
+(10V0124) Cruzch
+NG (less than 10 V)
+CPU board defect
+OK (10 V or more)
+Open circuit of harness
+(lov okf) 7 767101
+Inspection 1 <for 64-2 (64-2017070)
+MA
+Lift solenoid resistance check
+Battery plug OFF, connector CN88 and CN103 disconnection
+ZZDG
+of
+Measurement terminals
+CN103-1 (3) + - CN103-2 (4)
+-
+Tester range 11/29/1929
+S X 10
+Standard
+713
+00 5
+CN103
+1
+CN103
+321 4321 87654
+87 7 65 1312 110
+14/13/12
+111098
+21201918171
+1918 16/15/13/13 28272625
+OK (00 S2)
+CPU board defect
+NG (20 S2 or less)
+Short-circuit of harness
+(20120/74)
+7/81 (SASAn)A)
+5-133
+
+Error Code 67: Lifting Height Switch Abnormality (SAS Vehicle)
+Related portion
+2L123
+CN90
+CN101-21 (92,MH2-2)
+5
+CN101-20 (91,MH2-1)
+1
+go
+CPU board
+CN101-19 (90,MH1)
+6
+CPV=
+CN101-26 (51,LS-)
+go
+8
+Lifting height switch
+09/2/2020
+Estimated causes
+1
+Open or short circuit of harness 34 try
+2
+Lifting height sensor switch defect
+Mc
+nor
+9/Efole
+BOE Egfulluz
+5-140
+Floted
+(000)
+01
+All of MH1 through
+ANL.: I/O monitor 3
+Is there the second step lifting
+No
+MH2 are OFF (000).
+Set the mast to lower-most state
+height switch?
+and check the switch input valve.
+onle
+Yes
+2
+All of MH1 through
+ANL.: I/O monitor 3
+MH2 are OFF (0).
+Operate the lift lever to produce the
+ZOLOZHICL
+error and check the switch input
+valve.
+Inspection 2
+Two or more
+Two or more
+Lifting height switch individual
+are ON.
+are ON.
+inspection
+CN909-32/49/2
+OK
+NG
+Lifting height switch
+defect Energ
+ANL.: I/O monitor 3
+OFF
+1326
+Disconnect CN90 and check the
+switch input valve.
+CH902324412
+ANL.: I/O monitor 3
+Disconnect CN90, short-circuit
+CH90-8101
+t
+between CN90-1, 5 or 6 and
+Two or more are or
+one is ON.
+SST23 024/7/2
+CN90-8 by SST2 and check
+which switch does not turn ON.
+71212)
+Inspection 1 WALL
+04/09/2020
+(0921/21)
+Qtk
+The ON switch harness
+(connector pin)
+I
+voltage check
+Inspection 3 2/2L3
+N1
+(1912/2621
+Switch harness (connector pin)
+NG OKOV
+OK 0450
+voltage check
+(approx.
+MARKL
+N1
+(approx. 5 V)
+Harness defect
+CPU board defect
+OK
+NG
+(approx.
+(approx.
+7/2/19
+CPV Eng
+0 V) 050V
+VIOLEV
+CPU board defect
+Harness defect
+CPU & 524
+5-141
+Inspection
+7141 1:
+Battery plug ON, key switch ON BMEtz EZITION. 7/09/7/09.
+Lifting height switch ON voltage check
+722822
+Measurement terminals
+CN90-1(11),5(92),6(90) (ON position) + -N1
+Tester range 1/201/029)
+DC 10 V
+Standard
+7/3
+Approx. 5V 055V
+(C) o
+CN90
++
+in
+In
+CN90
+4)321
+-
+N1
+8 7 6 5
++
++
+(orov) I 76700
+NG (approx. 0 V)
+Harness defect
+OK (approx. 5 V) CPU board defect
+(45V) T CPV F 122
+Inspection 2: DAL T
+Lifting height switch individual inspection
+09201 CN92eLCN93.52
+Battery plug OFF, connectors CN92 and CN93 disconnection
+7845
+KEENEY EO)
+Measurement terminals
+Low lifting height
+High lifting height
+CN92-1 (51) - CN92-2 (90)
+Continuous
+71/2
+Not continuous 17/201H
+CN92-1 (51) - CN92-3 (91)
+Not continuous 5EL
+Continuous 17/1/2
+CN93-1 (105) - CN93-2 (91)
+Continuous 2913
+Not continuous 3ge
+CN93-1 (105) - CN93-3 (92)
+Not continuous 23th (21/3014)
+Continuous WK
+CN92
+CN93
+3)2(1
+3)(2)
+AT
+12
+18
+5-142
+KA3
+Inspection 3:
+2/22 solery 1/20/ /
+Battery Lifting height plug ON, switch key ON switch voltage ON check - 7/09/20
+7322
+Measurement terminals
+CN90-1(9),5(92),6(90) (OFF position) + -N1
+Tester range 1/30/1919
+DC 10 V
+Standard 7/3
+Approx. OV orov
+CN90
++
+(C
+o
+o
+in
+C
+E
+43321
+CN90
+87765
+as
+N1
+minimum
++
++
+(GOV)
+OK (approx. 0 V)
+CPU board defect
+NG (approx. 5 V)
+Harness defect
+(05,5V)
+01/21/2067: RECOSEN) 49171 Ezo CS SAS
+,
+5-143
+
+Error Code 71: Tire Angle Sensor Abnormality
+Related portion
+CN94
+CN142-3 (317,POTH)
+1
+CN142-11 (316,POTH+)
+2
+Tire angle
+SCPU board
+sensor
+SCNV
+ELOINGE
+CN142-8 (320,SPOT-)
+5
+212)7)
+Estimated causes
+1
+Tire angle sensor defect
+2
+Open or short circuit of harness
+71-1012484
+<For 71-1>
+5572318719 CN94-20L CH94-1ALOLE 12/2/2/21
+Use SST2 and short between
+CN94-2 and CN94-1.
+alazaza
+Change to
+71-2
+
+Error Code 72: Steering Angle Sensor Abnormality
+Related portion
+CN19
+CN141-17 (311,STS+)
+1
+CN141-6 (312,STS1)
+4
+SCPU board
+CN141-7 (313,STS2)
+Steering
+5
+wheel
+CN141-8 (314,STSC)
+sensor
+SCN E
+6
+CN141-16 (315,STS-)
+3
+Estimated causes
+1
+Steering angle sensor defect 723
+2
+Open circuit of harness
+5-148
+32-1CSTSI), n2-XSTS2) 01 eyan
+<For 72-1 (STS1), 72-2 (STS2)>
+2020 EZ/2 SSTI STS2 2/20>
+01
+ANL.: I/O monitor 4
+Yes
+Mt
+Turn the steering wheel and
+Normal
+check if STS1 or STS2 indication
+changes.
+No are
+SSTIR (1)197) 7/2/19 TABOLINY 2621)
+Set
+SST7 to CN19
+(51/01/215-10)
+11/01/2022 HALL
+(See page 5-10).
+32h the
+22/2 STSI at
+I
+Inspection 1
+ANL.: I/O monitor 4
+01
+Yes
+Steering angle sensor inspection
+Turn the steering wheel and
+Set SST7 to CN19. Check the
+check if STS1 or STS2 indication
+voltage variation on the connector
+changes.
+(TAB side) of the sensor when
+steering wheel is turned condition.
+No onle
+CN19-4 (312)
+CN19-5 (313)
+CN19-6 (314)
+Inspection 2
+voltage check
+Turn the steering wheel.
+CN19-3 (315)
+CN141-6 (312)
+(See page 5-10).
+T
+voltage check
+CN141-16 (315)
+OK
+NG (330)
+(voltage variatión)
+(no voltage variation)
+OK
+NG
+(voltage variation)
+(no voltage variation)
+Normal
+Steering angle sensor defect
+SCPU board defect
+Main harness defect
+MA
+5-149
+BAL
+Inspection 1:
+EYEAR Enjoy, SSTIECHI99,
+Steering angle sensor check
+Battery plug ON, key switch ON, SST7 set to CN19
+1
+CN19-4 (312) + -N1
+Measurement terminals
+2
+CN19-5 (313) +
+-N1
+3
+CN19-6 (314) + -N1
+Tester range A/2021 929
+DC 10 V Hobel
+Standard
+7/3
+Voltage varies between 1 V and 4 V.
+CN19
+3 2 1
+6
+5
+4
+June
+N1
++
+be
++
++
+IIIIIII
+3
+2
+1
+(IEL) T ZAA
+OK (variation between 1 V and 4 V)
+Normal
+NG (no voltage variation) Steering angle sensor defect
+Inspection 2: WILL
+Signal voltage variation check
+Battery plug ON, key switch ON Enzon,
+Measurement terminals
+CN141-6 (312) + - CN141-16 (315)
+-
+Tester range (126)/1229)
+DC 10 V ,IVEL4VRO9K
+Standard 713
+Voltage varies between 1 V and 4 V.
+CN141
++
+o
+8765
+4321
+0
+10
+1817161514131211109
+CN141
+R
+HOSPITAL +
+OK (variation between 1 V and 4 V)
+SCPU board defect
+NG (no voltage variation)
+Main harness defect
+5-150
+(22/30/2020)
+For 72-3> SST12
+Set SST7 to CN19.
+1222
+ANL.: I/O monitor 4
+ON 7132
+Steering angle sensor defect
+STSC indication check
+OFF and
+Inspection 1 324
+NG
+0450
+2-22-1926
+CN141-8 (314)
+(approx. 5 V)
+voltage check Hobdy
+Main harness defect
+CN141-16 (315)
+OK (ov(ov)
+SCPU board defect
+<For 72-4>
+<12-40124247 55792
+Set SST7 to CN19.
+(See page 5-10).
+2014
+0415U
+Inspection 1 W
+Inspection 4
+Approx.
+CN19-1 (311) CNA-3
+0V
+CN141-17 (311)
+15 V
+voltage check
+voltage check Honda
+Main harness
+defect
+CN19-3 (315) CNA-1
+CN141-16 (315).
+45T7 1131
+Approx. 15 V
+CNA-3 : SST7 connector
+04/15V
+ev
+CNA-1 pin Nos. goo
+2215
+Inspection 2 12/22
+Inspection 5
+SCPUR CHIH } 122/47/11
+Disconnect CN 141 on the SCPU
+Steering angle sensor check
+Approx. 04/5V
+board side.
+15V
+OK
+NG
+CN141-17 (311)
+Short-circuit
+voltage check york
+of main
+harness
+Steering angle sensor defect
+CN141-16 (315)
+Inspection 3 22A3
+Turn the steering wheel
+OV
+CN141-6 (312) or -7 (313)
+HOLKE
+SCPU board defect
+voltage check
+CN141-16 (315).
+square
+Both voltages
+No variation of both
+vary.
+or either
+voltage
+SCPU board defect
+Main harness defect
+SCN
+5-151
+24 t
+Inspection 1 <for 72-3>:
+Steering angle sensor signal voltage check
+Battery plug ON, key switch ON
+1 7/19/2/07.
+Measurement terminals
+CN141-8 (314) + - CN141-16(315)
+-
+Tester range A12011229
+DC 10 V
+Standard
+7/3
+Approx. 0V OKOV
+CN141
++
+8765 4321
+0
+ib
+1817161514131211109
+CN141
+and
+(045V) 5.27 20g
+NG (approx. 5'V) Main harness defect
+OK (0 V)
+SCPU board defect
+Inspection 1 <for 72-4>:
+none 237) ACC
+Steering angle sensor signal voltage check 1
+Battery plug ON, key switch
+ON 7/09/2014
+Measurement terminals
+CN19-1 (311) + - CN19-3 (315)
+-
+Tester range 1/2021/0291
+DC 200 V
+Standard
+-15
+Approx. 15 V 04/15V
+CN19
+-
++
+V
+C
+321
+R
+6 5 4
+(0415V)
+MAZENLIL
+OK (approx. 15V)
+Go to Inspection 2.
+NG (0 V V
+Go to Inspection 4.
+5-152
+Inspection Steering 2 angle <for 72-4>: sensor check 7/09/201.
+Battery plug ON, key switch ON, SST7 set to CN19
+1
+CN19-4 (312) + -N1
+Measurement terminals
+2
+CN19-5 (313) + -N1
+3
+CN19-6 (314) + -N1
+Tester range
+1/201/1009
+DC 10
+V
+Standard
+7/3
+Voltage varies between 1 and 4 V.
+CN19
+CN19
+3
+2
+1
+6
+5
+4
+invest
+N1
++
++
++
+3
+2
+1
+73/6
+OK (variation between 1 V and 4 V)
+Normal
+NG (no voltage variation)
+Steering angle sensor defect
+T
+MAS (72-49/04-04)
+Inspection 3 <for 72-4>
+Steering angle sensor signal voltage check 2
+EYER 7/ASP/ON,
+Battery plug ON, key switch ON, check during steering wheel operation
+1
+CN141-6 (312) + -CN141-16 (315)
+Measurement terminals
+2
+CN141-7 (313) + -CN141-16 (315)
+Tester range 1/2021879
+DC 200 V 3/8/2002
+Standard
+7/2
+Voltage varies between 1 V and 4 V.
+1
++
+CN 141
+8765
+4321
+0
+io
+B17161514131211109
+CN141
++
+2
+(Both voltages vary between 1 V and 4 V)
+SCPU board defect
+(Both or one voltage do not vary)
+Main harness defect
+5-153
+KALL ( 72-49110429)
+Inspection 4 <for 72-4>:
+Steering angle sensor signal \ voltage check 3
+Battery plug ON, key switch ON MGR/EZION
+2M32
+Measurement terminals
+CN141-17(311) + - CN141-16(315)
+Tester range 4/22/1929
+DC 200 V
+Standard
+7/2
+Approx. 15 V 03,15V
+CN141
+8765 4321
+0
+Do
+1817161514131211109
+CN141
+all
++
+1226
+OK (approx. 15 V)
+Main harness defect
+NG (0V) Go to Inspection 5. (OV)
+2245 < 72-401/2484)
+Inspection 5 <for 72-4>:
+01/22/2020 on, 71097101, CN141321
+Battery plug ON, key switch ON, CN141 disconnection
+Measurement terminals
+CN141-17 (311) + - CN141-16 (315)
+Tester range 4/2021/9391
+DC 200 V
+Standard
+213
+Approx. 15 V 04,15V
+CN141
+8765 4321
+0
+00
+1817161514131211109
+CN141
+all
++
+(04/150)
+OK (approx. 15 V) Short-circuit of main harness
+NG (OV)
+SCPU board defect
+COVH SCPUEL By
+5-154
+0132793 : 1775014171 2/5 (231) 2015(8520) 12/3/20
+
+
+Error Code 74: Tire Angle Matching Value Abnormality
+Related portion dees
+SCPU board SCPVEL
+Estimated causes
+1
+SCPU board defect SCPV $28
+Since the SCPU board is defective whenever 74-1 is indicated to the diagnosis memory, replace the SCPU
+board.
+SCIVE 271/8421
+2385 6/21/801 OCL ( 3843 RLS 062/11
+EE
+5-158
+WHEN NO ERROR CODE IS DISPLAYED
+Stability not provided during traveling (-Locking hardly or not provided during traveling)
+10/05/2010 YA lesue?
+NG
+Hasn't any tire burst or isn't tire air pressure low?
+Tire burst/air pressure abnormality.
+Rbz J.I 1266 OK
+NG
+Visually inspect for damages on the lock cylinder and pin.
+Lock cylinder component failure.
+Inspection AAL 1-330 OK
+12-14-2015
+Failure such as lock cylinder internal leak,
+Make sure that the rear axle does not swing when a
+leak of operation oil to the outside, or
+front wheel goes over a step after swing SOL OFF.
+solenoid sticking.
+DN2
+OK
+Inspection 2
+NG
+Is the error code recorded?
+Is there any current error in the record?
+No
+No
+Yes
+Go to that error code.
+WKL3
+Inspection 3 DOULE?
+NG
+Does the speed value change according to the traveling
+Speed sensor defect.
+speed?
+OK
+2244 Inspection
+201022 THES 340) 910k9 1202 MAZOZ 1011
+END
+( 224
+1
+Is the yaw rate sensor voltage change normal upon accelerated swing
+11/20/2021 0132/18
+along a circle with an approximately 2-meter radius? (Inspect the right
+and left, respectively.)
+NG
+Yaw rate sensor defect.
+2
+Make sure that the lock lamp is not lit when the fork is lowered and the
+speed is gradually increased simply. (Fork height: 500 mm (19.7 in) or
+lower)
+2
+2/7/10201
+01-242
+High
+2yent
+gHzL)
+All OK
+201921
+200 NEE of
+0/12/172
+VIGOLILE?
+Does this trouble occur during traveling with a large
+lifting height only?
+No
+Inspection 5
+NILLS Yes NG
+Lifting height switch
+Inspect operation of each lifting height switch (LIFTING
+defect.
+HEIGHT MH1, MH2-1 ON/OFF).
+OK
+32/01/2020 agree
+Does this trouble occur only when a load is provided?
+No
+Yes
+Can the mast be tilted to the forward-most position with a large
+4
+lifting height and without load (excluding relief)? Does the
+NG
+mast stop at an approximately 1 degree front tilted position
+Load sensor defect.
+when the fork is at the upper-most position with no-load relief?
+OK L
+1/29/19
+PS Controller defect.
+201
+7301
+not
+oh
+IE
+MEO)
+7/20/21
+QF/01
+ps
+5-159
+KYL
+MAG(OFF). - 28979 ZOZEON
+Inspection 1:
+5/201 22/01. (282) off
+See that the rear axle does not swing when one front wheel rides on a high place after swing solenoid
+OFF
+BIRD the 2grst
+THEY
+Analyzer: ACTIVE TEST
+7132
+17/3
+Standard:
+act.
+When one front wheel rides on a high place after the swing solenoid is set to ON and OFF on a flat road,
+one front or rear wheel shall float above the ground,
+Caution: 01 2011 7224021 404842
+Perform this inspection with no load at a low fork
+height.
+72LL)
+8
+Inspection 2:
+7/25/201)
+<ACT-3 /
+SSOLONOFF
+Is any error code recorded?
+Hill:
+Analyzer: DIAG MEMORY
+Standard: 7/3
+12-21-2019 alamy 01/01/2022 UEtUz) 201-01-201
+No error shall be displayed near the current time on the
+hour meter.
+WL
+8
+<DIAG-1>
+CO-1
+B
+12345.6h
+Inspection 3:
+SPH
+Does the speed value change according to the traveling
+speed?
+Analyzer: I/O MONITOR 2/VEHICLE SPEED
+Standard: 7121 0
+During traveling the speed value shall change according to
+the varying vehicle speed.
+8
+Note:
+<VO2-5>
+SPD:M10.0 S10.5
+The speed value is in a range of 95 to 130% of the
+actual vehicle speed.
+OLY 130%
+OK 2mQ blog 2712) 201k 7HZOZ THLATEL 7-13171212
+M
+5-160
+WAY
+Inspection 4:
+1 Let the vehicle travel with acceleration on a circle whose radius is approx. 2 m (79 in), and check if the
+yaw sensor voltage variation is appropriate (check for each of right and left turns).
+13331 : 1/0 244121 01/22 221
+Analyzer: I/O MONITOR 2/YAW RATE SENSOR VOLTAGE
+Standard:
+At a low fork height with no load, travel with gradual acceleration (at a speed of 5 to 6 km/h (27.3 ~ 32.8
+fpm)) on a circle whose radius is approx. 2 m (79 in) (with respect to the center of the vehicle). The yaw
+sensor voltage shall vary smoothly.
+In right turn
+22737
+2.5 V (stationary state)
+approx. 3.0 V
+In left turn
+2.5 V (stationary state)
+approx. 2.0 V
+713: 72748201
+7/22/2020
+523gml
+8
+<VO2-6>
+YAW 2.50
+SPH
+W25
+74491 ( HHI u NHH-tol BLand.
+Inspection 5:
+Check functioning of each fork height switch (ON/OFF of fork height MH1 and MH2-1).
+1/0 224913 / ENEY 70 Lik
+Analyzer: I/O MONITOR 3/LIFTING HEIGHT SWITCH
+Standard:
+1
+Lift and lower the fork at around 2,200 mm (86.6 in) to actuate the fork height switch.
+Only fork height MH1 is ON at a low fork height (below the fork height switch).
+only MH2-1 is ON at a high fork height (above the fork height switch).
+7/5
+D
+27/12/2017
+OK
+12,200
+M
+M
+(86.6021)0114
+HMO2
+d gol MHIDLOI 2/11/19 7/3/CL
+<VO3-5:
+MH :001
+MENU
+AEMOK
+and
+34201
+406305
+5-161
+Swing lock always occurs during traveling or loarding work.
+Or swing lock frequently occurs.
+22/2
+2L2
+2/2/2/ Q4 GELE 2(717L)
+850
+222017)
+Lock is always maintained (bracing kept) and the rear axle
+does not swing when the vehicle goes over a step although the
+Yes
+Failure such as lock cylinder
+swing lock indicator is not lit (upon engine start).
+solenoid valve sticking or clogging.
+7/20
+may
+Inspection 1
+2/21/1920
+01-27-2010
+1
+Is the yaw rate sensor voltage change normal upon
+accelerated swing along a circle with an approximately
+7/20/2627 12/22
+NG
+2-meter radius? (Inspect the right and left, respectively.)
+Yaw rate sensor abnormality.
+2
+Make sure that the swing lock indicator is not lit when the
+fork is lowered and the speed is gradually increased simply.
+(Fork height: 500 mm or
+(19.7 in) lower). 100 MH!, MH2-1 7/21/2018)
+All OK
+2246
+1/23/18
+Inspection 2
+Inspect the operation of each the lifting height switch. (LIFTING
+NG
+Lifting height switch abnormality.
+HEIGHT MH1, MH2-1 ON/OFF)
+OK
+3027279201
+Am12501
+LEAGE
+11294
+Can the mast be tilted to the forward-most position with a large
+lifting height and without load (excluding relief)? Does the mast
+NG
+Vizz
+stop at an approximately 1 degree front tilted position when the
+Load sensor abnormality.
+fork is at the upper-most position with no-load relief?
+30/01/2016
+OK
+PS Controller defect.
+MAIL 0420161
+stylead
+-
+Inspection 1:
+1
+Is the yaw rate sensor voltage change normal upon accelerated swing along a circle with an approxi-
+mately 2-meter radius? (Inspect the right and left, respectively.)
+Analyzer: MONITOR 2/YAW RATE SENSOR VOLTAGE
+Standard:
+With a small lifting height and without load, perform accelerated swing along an approximately 2-meter
+radius circle (based on the vehicle center) gradually (up to 5 to 6 km/h (3.1 ~ 3.7 mile/h)). The yaw rate
+sensor voltage shall change.
+Swing to the right
+2.5 V (stop) to Approx. 3.0 V
+Swing to the left
+2.5 V (stop) to Approx. 2.0V425V(B32S51) on
+17142
+1/5
+ok
+22/31
+WELL
+MEL.
+CZ125~6kg
+8
+7/2/2017
+<1/02-6>
+YAW: 2.50
+MMW
+MENU
+5-162
+BIRL
+Inspection
+Inspect (LIFTING the HEIGHT operation MH1, of each MH2-1 the ON/OFF) lifting height T colled switch. 201 MHI. WH2H
+13/30/ 1/0 20 APR
+Analyzer:
+1/15 I/O MONITOR 1 3/LIFTING HEIGHT and SWITCH OK 220mm (8101) 120/01/44 7/11/12
+Standard:
+1
+Lift and lower the fork at a height of approximately 2200 mm (87 in) to activate the lifting height switch.
+Note:
+LIFTING HEIGHT MH1 only is turned ON for a small lifting height (below the switch).
+LIFTING HEIGHT MH2-1 only is turned ON for a large lifting height (above the switch).
+MHI Lo 120/2 stay 7/2/04
+Ever 1/20/ MH2-1201 90%)
+-
+8
+<VO3-5>
+MH :001
+SPH
+Bace T&L 7/20/201)
+Stopping with automatic leveling fails. (Does not stop at a horizontal position but tilts at the
+forward-most position.)
+Related Portion
+Tilt angle
+CN102-16 (57, POTT+)
+CN86-1
+Mr
+C/3
+CN102-4 (56, POTT)
+CN86-2
+TAB
+CN102-22 (51, POT-)
+CN86-3
+CN102
+CN86
+Active fork leveling switch
+11/92/27
+CN101-18 (70, SWTK)
+CN85-1
+Agress
+Dill
+CN101-26 (51, LS-)
+CN85-2
+CN85
+5-163
+Wal
+NG
+Inspection 1
+Inspect the output of the active fork leveling switch.
+OK
+OK
+Inspection 2
+Inspect the output of the tilt angle sensor.
+NG
+1447
+Inspect for link bending and damages of the tilt angle
+NG
+After repair, check active fork
+sensor.
+leveling.
+OK
+NG
+Inspection 3 Art
+NG
+Inspect the tilt angle sensor.
+>
+Tilt angle sensor defect.
+OK
+,
+Inspection 4
+7/27/14
+NG
+After re-setting again, check
+Inspect the leveling stored value of the tilt angle sensor.
+active fork leveling.
+OK
+NG
+Huggla
+7/22/1221/2015 NO.1 CLASS 124
+Make sure that natural forward tilting is obviously large.
+OK
+Control valve tilt solenoid No. 1
+(Can the motion be checked visually?)
+sticking or tilt lock check valve
+sticking defect.
+NG
+CPU board defect. CPUR
+209ml CH101 0/22/24K4
+122/8 ZOLORALL
+NG
+Inspect for slip off of the CN101 and CN85 connectors.
+After correction, check active
+fork leveling.
+OK
+NG
+7AA5
+mod
+Inspection 5
+OK
+Inspect continuity of the active fork leveling switch wiring.
+Controller defect.
+NG
+my
+Inspection 6
+7/7/19 4819701 nard
+NG
+Inspect continuity of the active fork leveling switch only.
+Active fork leveling switch defect.
+OK
+my
+Inspection 7
+CNTOI a CN85 Hold
+Inspect continuity between CN 101 and CN85.
+Harness defect. 782/22
+OK
+CN85 connector defect.
+(47%) CH85 by
+5-164
+BALL
+7/1/2019
+Inspection 1:
+Inspect the output of the active fork leveling switch.
+Turn the key switch ON 7/69/20 on (7/31)
+13/3/ 1/0 7/27/2064
+Analyzer: I/O MONITOR 3/TILT KNOB SWITCH
+Standard: 7/3
+Active fork leveling switch free
+Active fork leveling switch depressed
+SWTK
+OFF
+ON
+-
+8
+<VO3-1>
+LSL:1 SWTK:0
+SPH
+YLL
+Inspection 2:
+Inspect the output of the tilt angle sensor.
+Turn the key switch ON
+12411 :1/0 324413/ 2/20/2020 2jof
+Analyzer: I/O MONITOR 3/TILT ANGLE SENSOR VOLTAGE
+Standard:
+When the tilt operation is performed and the mast is moved from the forward-most tilt position to the
+backward-most tilt position, the potential shall rise between 0.1 V and 4.9 V along with backward tilting.
+15' 301 7/3/2016 2/20/1994 2/2/20
+1201014
+8
+<VO3-6>
+POTT: 2.50
+MM
+7123
+Inspection 3:
+Inspect the tilt angle sensor.
+Turn the ignition switch OFF and remove the tilt angle sensor.
+Standard: 7/73
+CN86
+2
+1
+CN86-1 ~ CN86-3
+1.5 +
+ks2 0.3 ks
+Sensor lever free
+Sensor lever with full stroke
+3
+2
+1
+2
+CN86-2 ~ CN86-3
+0 kn
+1.5 ks + 0.3 ks2
+1
+5-165
+TANLY
+Inspection 4:
+7/20/2427 of
+Inspect the leveling stored value of the tilt angle sensor.
+Turn the key switch ON
+Matching: Tilt horizontal angle
+Standard:
+The TILT value shall be smaller than the LEVEL value when the tilt is at the forward-most position.
+7/5:
+7/27/7 9/29/2004 7/10/2010
+-
+B
+<MATCHING> OK
+TILTL (2.00)2.00
+WAS
+Inspection 5:
+TOTAL 7/7/12 480 L9 bysol
+Inspect continuity of the active fork leveling switch wiring.
+30097222, CHIOTS 122/1/2/0L
+Turn the ignition switch OFF and disconnect CN101.
+ARZZOM (of
+2/11/12 12/3/09
+Standard: 7/3
+CN101
+Active fork leveling
+Active fork leveling switch
+switch free
+depressed
+10987654321
+CN101-18-CN101-26
+No continuity
+1615
+14/13
+Continuity shall exist.
+1211
+11
+(26252423222120191817
+ARAZ
+34833231D30292827 22
+Inspection 6: may
+Inspect continuity of the active fork leveling switch only. 09/14/19 m
+C. CH852 122/4/19
+Turn the ignition switch OFF and disconnect CN85.
+Standard: 7/3
+2/21/02
+CN85
+V
+Active fork leveling
+Active fork leveling switch
+switch free
+depressed
+2 1
+CN85-1 - CN85-2
+No continuity
+Continuity shall exist.
+Inspection 7: man
+Inspect continuity between CN101 and CN85.
+CHIO/XL CN85/2019
+Turn the ignition switch OFF and disconnect CN101 and CN85.
+Standard: 7/3
+CN101
+1 CN101-18 - CN85-1: Continuity shall exist.-) 01/2/2021
+0987654321
+16150141301211
+2
+CN101-26 - CN85-2: Continuity shall exist.
+52423222120191817
+34833231 30292827
+2
+1
+CN85
+1
+2
+x
+2 1
+201 9121111 223-11)
+5-166
+Active fork leveling is not provided. (Stops at a non-horizontal position.)
+Related Portion:
+Tilt angle sensor
+21/07/27
+CN102-16 (57, POTT+)
+CN86-1
+CN102-4 (56, POTT)
+CN86-2
+engle
+CN102-22 (51, POT-)
+CN86-3
+CN102
+CN86
+street
+15/2/29 ZAL
+Inspect for link bending and damages of the tilt angle
+NG
+After repair, check active fork leveling.
+sensor.
+OK
+NG
+Inspection 1 TA 7/21/2422
+NG
+Tilt angle sensor defect.
+Inspect the tilt angle sensor.
+OK
+ANL
+Inspection 2
+7/27/2027
+NG
+After re-setting again, check active fork
+Inspect the stored leveling value of the tilt angle sensor.
+leveling.
+OK
+NG
+CPU board defect.
+CPUHL:
+5-167
+no
+Inspection 1:
+Inspect the tilt angle sensor.
+7/09/21 off.
+Turn the key switch OFF and remove the tilt angle sensor.
+Standard: 7/5
+1
+CN86-1 - CN86-3
+1.5 ks + 0.3 ks2
+Sensor lever free
+Sensor lever with full stroke
+2
+2
+CN86-2 - CN86-3
+0 ks2
+1.5 ks2 + 0.3ks2
+all
+3(2)1)
+AAL
+Inspection 2:
+7/21/2427 4822 apart
+Inspect the stored leveling value of the tilt angle sensor.
+1
+Turn the key switch ON 7/09/2 ONOZEYAL(DCL)
+Matching: Tilt horizontal angle T Q/21 7/2/2824
+Standard: 4713 7/22/20 48876
+The TILT value shall be the LEVEL value + 0.05 V when the mast is upright.
+Note:
+Set the mast slowly forward from the backward-tilted position.
+ohd 7/25/2018
+otoz
+8
+<MATCHING> OK
+TILTL (2.00)2.00
+SP
+OLELOOM ( D97/A 12/2/2000
+5-168
+Active fork leveling is not provided. (Stops at a position when the knob switch is pressed.)
+Related Portion 062123
+Tilt angle sensor 7127/7427647)
+CN102-16 (57, POTT+)
+CN86-1
+CN102-4 (56, POTT)
+CN86-2
+ande
+CN102-22 (51, POT-)
+CN86-3
+CN102
+CN86
+Load sensor 7279 72217)
+11/19/2484
+CN102-17 (58, SPL+)
+CN90-1
+CN91-3
+CN102-5 (59, SPL)
+CN90-2
+CN91-2
+CN102-22 (51, POT-)
+CN90-3
+CN91-1
+CN102
+CN90
+CN91
+Lifting height switch 100 Dilit)
+71/02/2011
+CN101-26 (51, LS-)
+CN90-2
+CN92-1
+CN101-19 (90, MH1)
+CN90-6
+CN92-2
+Iniginit
+CN101-20 (91, MH2-1)
+CN90-1
+CN92-3
+CN92
+CN101-21 (92, MH2-2)
+CN101
+CN90
+04500mm
+5-169
+OK500mm
+(19.69,19)
+127M
+XYZ
+OK
+Make sure that active fork leveling is possible with a fork lifting
+height of approximately (19.6 in) and approximately 500
+mm (19.6 in) without load.
+NG
+- CPUS Zug
+Make sure that active fork leveling is possible with a fork lifting
+OK
+height of approximately 500 mm (19.6 and approximately 500
+CPU board defect.
+mm (19.6 in) with a load on the
+7379201 NG
+Check if automatic leveling is possible at a high position
+OK
+without any load.
+CPU board defect.
+NG
+Fi2134.
+Inspect for link bending and damages of the tilt angle
+NG
+sensor.
+After
+repair,
+check
+active
+fork
+leveling.
+NG
+Inspection 1 May
+Inspect the tilt angle sensor.
+Tilt anglé
+sensor
+detect.
+WILL
+OK
+Inspection
+2
+NG
+After
+re-setting
+again,
+check
+active
+fork
+Inspect the stored leveling value of the tilt angle sensor.
+leveling.
+OK
+NG
+ACPUSLY
+CPU board defect.
+Oh
+500mm
+(19.6
+0121)21
+NAME
+21845101
+NG
+Make sure that active fork leveling is possible with a fork lifting
+7324762713
+height of approximately 500 mm (19.6 in) and approximately 500
+PLOTOLIC
+mm (19.6 in) with a load on the fork.
+12/2/19
+W.L3
+OK
+Inspection 3
+Wh
+Replace
+the
+load
+sensor,
+and
+check
+if
+Inspect the load sensor output signal.
+automatic
+leveling
+occurs
+at
+a
+high
+fork
+position
+without
+a
+load.
+OK
+NG
+CPU board defect.
+my
+COVEL
+Inspection 4
+OK
+Inspect
+the
+output
+of
+the
+lifting
+height
+switch.
+CPU
+defect.
+NG
+Inspection
+zael to 05/7/101 third NG
+Inspect continuity of the lifting height switch only.
+Lifting height switch defect.
+OK
+CPU board defect.
+5-170
+may
+Inspection 1:
+7|2)
+Inspect the tilt angle sensor.
+Turn the ignition switch OFF and remove the tilt angle sensor.
+Standard: 7/5
+1
+CN86-1 - CN86-3
+1.5 + 0.3 ks2
+CN86
+2
+Sensor lever free
+Sensor lever with full stroke
+3 2 1
+2
+CN86-2-CN86-3
+0 kn
+1.5 ks2 + 0.3 ks.
+WA
+1
+Inspection 2:
+Inspect the stored leveling value of the tilt angle sensor.
+Turn the key switch ON 710913
+Matching: Standard: 7125: 7th ecoal angle 9/2 7/2/2009 7/20/76 HORREL
+Tilt horizontal
+The TILT value with the mast tilted fully backward is greater than the
+LEVEL value.
+AND whise 2/2L
+Inspection 3:
+Inspect the load sensor output signal.
+8
+710917 on (20d)
+<MATCHING> OK
+TILTL (2.00)2.00
+Turn the key switch ON
+)
+10171.737476
+Standard: Matching:Load value 7/2 ok
+The LOAD value is the value in ( ) + 0.2 V or lower.
+(Fork lifting height of approximately 500 mm (19.6 in) without load.)
+DALL
+Inspection 4:
+FERRY
+<MATCHING> OK
+Inspect the lifting height switch output signal.
+LOAD (0.70)0.70
+7/19912 on ()
+)
+Turn the key switch ON
+12x21 1/0 nds /ENEL
+Analyzer: I/O MONITOR 3/LIFTING HEIGHT SWITCH
+Standard:
+715: 7/12/2017 500 mm
+When the fork height is 500mm (19.6 in). the LIFTING HEIGHT
+output shall be as follows:
+MH1: ON (717)
+MH2-1: OFF (mid)
+<I/O3-5>
+MH:001
+MH2-2: OFF ( 77321)
+WIL5.
+Inspection 5:
+Inspect continuity of the lifting height switch only.
+CN3
+Turn the ignition switch OFF and disconnect CN31.
+CN92
+1
+Standard: 7/3
+. OK 500mm (196°7)
+3 2 1
+Fork height: Approximately 500 mm (19.6 in)
+1
+CN92-1 ~ CN92-2
+Continuity shall exist.
+2
+CN92-1 ~ CN92-3
+No continuity
+2
+m (3)72)
+elmy 7/21/286 338814 esta 236 otong 26th
+5-171
+The active mast rear tilt speed is not regulated, or the backward tilting speed is always slow.
+Related Portion
+Active fork leveling switch
+Mr
+from
+KORE
+74/9282
+CN101-18 (70, SWTK)
+CN85-1
+Suitivit
+CN101-26 (51, LS-)
+CN85-2
+CN85
+CN101
+Lifting height switch ENGY Zo Dizz
+24/07/2621
+CN101-26 (51, LS-)
+CN90-2
+CN92-1
+CN101-19 (90, MH1)
+CN90-6
+CN92-2
+Inigint
+CN101-20 (91, MH2-1)
+CN90-1
+CN92-3
+CN92
+CN101-21 (92, MH2-2)
+CN101
+CN90
+5-172
+ml.
+OK
+Inspection 1
+Inspect the output signal of the
+active fork leveling
+NG switch. x728
+Inspect for slip off of the CN101
+OK
+After correction, check the
+and CN85 connectors.
+backward tilting speed.
+OK
+NG
+BALL
+Inspection 2
+OK
+CN101 connector or controller
+Inspect continuity of the active
+>
+defect.
+fork leveling switch wiring.
+NG
+09/2/5012
+Inspection 3 12243
+NG
+Inspect continuity of the active
+Active fork leveling switch defect.
+fork leveling switch only.
+Inspection 4 OK DALL NG
+Inspect continuity between
+Harness defect.
+CN101 and CN85.
+OK
+CN85 connector defect.
+Inspection 5
+TOPS
+OK
+Inspect the output signal of the
+CPU board defect.
+lifting height switch.
+NG
+Inspection 6 insub
+Like 122k
+NG
+Inspect continuity of the lifting
+Lifting height switch defect.
+height switch only.
+OK
+EVERY /22/2015)
+CPU board defect. COVELZA
+*:
+Since the solenoid may be hot after lifting operation, carefully
+prevent the hand from getting scalded.
+MAI
+Inspection 1:
+Inspect the output signal of the active fork leveling switch.
+Turn the key switch ON 7/69/21 01
+22111 1/0 MA713 /
+Analyzer: I/O MONITOR 3/TILT KNOB SWITCH
+Standard: 013
+Active fork leveling
+Active fork leveling switch
+switch free
+<1/03-1>
+depressed
+SWTK:0
+SWTK
+OFF
+my
+ON Her
+MENU
+5-173
+WAL
+Inspection 2:
+onkjol
+Inspect continuity of the active fork leveling switch wiring.
+71097 off. (Nb) BE)
+Turn the key switch OFF and disconnect CN101.
+Standard: 7/5
+1
+Active fork leveling
+Active fork leveling switch
+CN101
+switch free
+depressed
+0987654321
+CN101-18-CN101-26
+No continuity
+Continuity shall exist.
+6150141301211
+6252423222120191817
+DA3
+Inspection 3:
+again 22/L
+2
+1
+Inspect continuity of the active fork leveling switch only.
+22, C4/85 22
+Turn the ignition switch OFF and disconnect CN85.
+Standard: 7/3
+1
+CN85
+Active fork leveling
+Active fork leveling
+switch free
+depressed
+2
+1
+CN85-1 - CN85-2
+No continuity
+Continuity shall
+nov
+on
+Inspection 4:
+HAL
+Inspect continuity between CN10 and CN85.
+7/D9/2 OFF,
+Turn the key switch OFF and disconnect CN101 and CN85.
+CN101
+Standard: 7/2
+10987654321
+1 CN101-18 - CN85-1: Continuity shall exist
+(26252423222120191817
+2 CN101-26 - CN85-2: Continuity shall exist "
+)
+34833231 30292827
+2
+1
+70XL5
+Inspection 5:
+DEPARTMENT
+CN85
+1
+Inspect the output signal of the lifting height switch.
+2
+DOLDER on (03/7/18)
+Turn the ignition switch ON (start the engine).
+1/0 2244713 / ENEL zol Aptil
+2 1
+Analyzer: I/O MONITOR 3/LIFTING HEIGHT SWITCH
+Standard: 7125: 2/11/12 120/7/ 500mm (19.60/21) QIEN .
+When the fork height is 500 mm (19.6 in). the LIFTING HEIGHT output shall be as follows:
+MH1; ON
+MH2-1: OFF
+MH2-2: OFF
+DAL
+Inspection 6:
+/20/ 69 09/20/20 2/L
+8
+<l/O3-5>
+MH: :001
+SPH
+Inspect continuity of the lifting height switch only.
+/OFF. CN92123/
+Turn the ignition switch OFF and disconnect CN92.
+7/2
+Standard:
+THE
+CN92
+Small lifting height
+Large lifting height
+1
+CN92-1 - N92-2
+Continuity shall exist. 08/24/2024
+No continuity.
+321
+2 CN92-1 - CN92-3
+No continuity. 09/18/2020
+Continuity shall exist.
+2
+7/2012/2) etsel
+5-174
+The mast does not perform forward/backward tilt.
+Related Portion
+Tilt lever switch
+CN87-1
+79/02/20)
+CN101-16 (61, LSTF)
+02/17/49)₹
+parts)
+Forward tilt
+CN87-2
+switch
+CN101-17 (62, LSTR)
+CN87-3
+13/1992
+Backward
+CN101-26 (51, LS-)
+CN87-4
+tilt switch
+CN87
+Hodel
+OK
+Check to see if forward and
+backward tilting is impossible.
+NG
+of
+Is the pump operation sound heard
+OK
+Sticking of tilt lock
+when the tilt lever is operated?
+check valve.
+NG
+OK
+Inspection 1
+Inspect the switch output signal
+when the tilt lever
+is operated.
+NG
+72389
+Inspect slip off of the CN87
+NG
+After correction, check the tilt
+connector.
+operation.
+OK
+NG
+CPU board defect CPU the
+2/22/2009
+OK
+Check to see if forward tilting is
+possible.
+NG
+durgel way
+Is the pump operation sound heard
+OK
+Sticking of control
+when the tilt lever is operated to the
+valve tilt solenoid in
+Go to A on the next page.
+forward position?
+closed state.
+NG
+Inspection 2
+CPUT
+Inspect the switch output signal
+OK
+CPU board defect.
+when the tilt lever is operated for
+forward tilting.
+NG
+CN101
+,723
+Inspect for slip off of the CN101
+NG
+After correction, check the forward
+and CN87 connectors.
+tilting operation.
+OK
+NG
+OK
+Inspection 3
+CPU board defect.
+Inspect continuity of the forward tilt
+lever switch wiring.
+NG
+Go to
+B
+on the next page.
+4029142 B 27122
+2264 UNIVERSITY WKL
+CANAL
+5-175
+A
+B
+7245
+WITH RAL
+Inspection 4
+Inspect continuity of the forward tilt
+OK
+Inspection 5
+NG
+lever switch only
+(mounted on the vehicle).
+Inspect continuity between CN101
+Harness defect.
+and CN87.
+NG
+OK
+nb 12-24
+Inspection 6
+CN87 connector defect.
+Inspect continuity of the forward tilt
+NG
+lever switch only (removed from the
+Forward tilt lever switch defect: 12/05/2016 1526
+vehicle).
+OK
+31/01/2012
+Forward tilt lever switch mounting
+defect.
+11/20/2017 SPECIME cry
+1/1/1 OKL
+TL2L beh
+Is the pump operation sound heard when
+OK
+the tilt lever is operated to the backward
+Sticking of control valve tilt
+position?
+solenoid in open state.
+NG
+pross. The 2/19/1- DATE alan
+2009
+Inspection 7
+OK
+Inspect the switch output signal when the
+>
+CPU board defect. cpva
+tilt lever is operated for backward tilting.
+NG
+122/72/L
+, 723
+Inspect for slip off of the CN1 101 and
+NG
+After correction, check the
+CN87 connectors.
+backward tilting operation.
+OK
+NG
+Inspection
+8 me 91060 like OK WEARL
+Inspect continuity of the backward tilt
+>
+CPU board defect. cover
+lever switch wiring.
+NG
+ANA 5/6/20 2/20/23/14 69°L alley
+22110
+Inspection 9
+Inspect continuity of the backward tilt lever
+OK
+Inspection 10
+NG
+switch only (mounted on the vehicle).
+>
+Inspect continuity between
+Harness defect.
+CN101 and CN87.
+NG
+AZE (97)
+OK
+Inspection 11 you
+CN87 connector
+NG
+defect.
+Inspect continuity of the backward tilt lever
+Backward tilt lever switch
+switch only (removed from the vehicle).
+defect. 2000 7/20/
+OK
+Backward tilt lever switch
+mounting defect.
+123/12/20
+5-176
+TAXI
+7/28/2017 L9F
+Inspection 1:
+Inspect the switch output signal when the tilt lever is operated for backward tilting.
+Turn the ignition switch ON (stop the engine). on (aklaz)
+Analyzer: I/O MONITOR 3/FORWARD TILT SWITCH BACKWARD TILT SWITCH
+2271 ! 1/0
+Standard: 713
+2425
+326
+3988
+Tilt lever neutral
+Tilt lever at forward
+Tilt lever at backward
+LSTF
+OFF
+ON
+OFF
+LSTR
+OFF
+OFF
+ON
+Inspection
+2: na
+Inspect the switch output signal when the tilt lever is operated for forward tilting.
+Turn the ignition switch ON (stop the engine). on
+Analyzer: I/O MONITOR 3/FORWARD TILT SWITCH, BACKWARD TILT SWITCH
+221. 2087/21/19
+Standard:
+552
+72%
+Tilt lever neutral
+Tilt lever at forward
+8
+<1/03-2>
+LSTF
+OFF
+ON
+LSTF:1 LSTR:0
+1000000000 FPH
+LSTR
+OFF
+OFF
+MAZ
+Inspection 3:
+Inspect continuity of the forward tilt lever switch wiring.
+71997017 CH101-32
+Turn the key switch OFF and disconnect CN101.
+CN101
+Standard:7/3
+28
+2008
+0987654321
+1615 1413
+1111
+Tilt lever neutral
+Tilt lever at forward
+423222120191817
+34833231C302928272
+CN101-16-CN101-26
+No continuity
+Continuity shall exist.
+arroa
+MAY
+Inspection
+Inspect continuity of the forward tilt lever switch only (mounted on the machine).
+7/09/2017 CN87-32
+Turn the key switch OFF and disconnect CN87.
+CN87
+13
+7/2/2018
+Standard:
+2576
+72-06-04
+211
+Tilt lever neutral
+Tilt lever at forward
+4 3
+CN87-1-CN87-2
+No continuity
+Continuity shall exist.
+DAS
+Inspection 5:
+1
+CN101
+Inspect continuity between CN101 and CN87
+I0987654321
+LQK OFF. 1221
+161514131211
+111C
+26252423222120191817
+Turn the key switch OFF and disconnect CN101 and CN87.
+34.333231 ¥ 30292827
+222
+Standard: 7/2
+2
+1
+CN101-16 - CN87-1: Continuity shall exist.-
+CN87
+2 CN101-26 - CN87-2: Continuity shall exist
+ic 11
+2
+1
+2)
+4)(3)
+1244
+5-177
+Inspection 6:
+Inspect continuity of the forward tilt lever switch only (removed from the machine).
+, CNG1-22
+Turn the ignition switch OFF and disconnect CN87.
+7388
+Remove the forward tilt lever switch (upper-side switch on the control valve).
+CN87
+Standard: 712
+Switch free
+Switch depressed
+2 1
+CN87-1 - CN87-2
+Continuity shall exist.
+4)
+No continuity COVER Ah
+Day
+Inspection 7:
+7/20/21/1912 LIKE
+Inspect the switch output signal when the tilt lever is operated for backward tilting.
+on (23)
+Turn the ignition switch ON (stop the engine).
+Analyzer: I/O MONITOR 3/FORWARD TILT SWITCH, BACKWARD TILT SWITCH
+2332 1/0 2AKL)
+Standard:
+7/20/21/01
+7/22/21/2010
+Tilt lever neutral
+Tilt lever at backward
+8
+LSTF
+OFF
+OFF
+<VO3-2>
+LSTF:1 LSTR:0
+LSTR
+SPH
+OFF
+ON
+DIVIV
+Inspection 8:
+RLSL
+Inspect continuity of the backward tilt lever switch wiring.
+71199 OF, CH101-32
+Turn the key switch OFF and disconnect CN101.
+Standard: ?13
+CN101
+Tilt lever neutral
+Tilt lever at backward
+0987654321
+CN101-17 - CN101-26
+111C
+No continuity
+Continuity shall exist. 09/2/27
+28252423222120191817
+2221
+22Lg
+Inspection 9:
+Inspect continuity of the backward tilt Jever switch only (mounted on the vehicle).
+Non-22
+Turn the key switch OFF and disconnect CN87.
+7/2
+CN87
+Standard:
+7/20/2019
+23
+208(5)
+2)
+Tilt lever neutral
+4)3
+Tilt lever at backward
+CN87-3-CN87-4
+No continuity
+Continuity shall exist.
+74440
+CN101
+Inspection 10:
+CN/O/DL CH81 sode
+Inspect continuity between CN101 and CN87.
+0987654321
+11/CC
+7/APE/OFF,
+25252423222120191817
+34333231D302928277222
+Turn the key switch OFF and disconnect CN101 and CN87.
+2
+1
+Standard: 7/3
+CN87
+1 CN101-17 - CN87-3: Continuity shall exist.
+2 CN101-26 - CN87-4: Continuity shall exist.
+2
+1
+(11)
+4
+3
+2
+1
+H/L2. 7/3/2019 LEMETEE 111
+22/9/21 Z
+5-180
+Inspection 2:
+Make sure that the central value of the knob position value is within 80 + 1 when the steering wheel is
+turned from the right or left end to the neutral (straight-forward) position.
+Analyzer: I/O MONITOR 4/STEERING ANGLE KNOB POSITION
+Standard: 715 : Botlotal
+The knob position value shall be within 80 + 1 when the steering
+wheel is turned from the right or left end to the neutral (straight-
+</O4-2>
+K-POS:159(150)
+forward) position.
+5M8
+Note:
+Start from at least 1/3 turn before the TOYOTA mark center position.
+743 :
+72329 22/9/19 DARLOM AMEIL 2212 ZZKKEE 8/2/1411 941
+2/01 patting zzh fix171-
+Inspection
+3:
+8A 3/2/19
+Remove the horn cap when the steering wheel is in the neutral position, and check if the positioning mark
+on top of the steering shaft is in the nine o'clock direction. If deviated, turn the steering wheel to adjust to
+the nine o'clock position. If the knob position then is not in the eight o'clock direction, remove the steering
+wheel and install it SO that the knob is located in the eight o'clock position
+MAY :
+SIZE E/0/01/1 Etolol 7012
+Atolth 7201E 0.04UK
+Inspection 4:
+Inspect the difference between the tire voltage value and re-setting voltage value when the rear wheel
+tires are just in straight-forward position.
+The difference shall be at least 0.04 V.
+EFORME
+Matching: Tire angle
+755 592101 offeron Hopt 201E
+Standard:
+The difference between the tire voltage value and re-setting voltage
+value shall be at least 0.04 V when the rear wheel tires are just in
+<MATCHING> OK
+TIRE (2.00)2.00
+SPH
+straight-forward
+12250 SOL2 position, onozzie. 71200k
+) a SPH
+224L5
+CENTER
+Inspection 5:
+Turn the knob SOL ON and make sure that the steering wheel turns idle at the tire end. (Turning speed:
+1 turn 2 to 3 seconds)
+3621 per
+Analyzer: ACTIVE TEST/KNOB POSITION CORRECTING SOLENOID
+7/5 HEGOISOL 01 onez E2421, 3332
+Standard:
+323201 belzez LIVE
+The steering wheel shall turn idle when the knob SOL is turned ON
+and the steering wheel turns idle at the tire end. (Turning speed: 1
+<ACT-4> \/
+KSOL:ON/OFF TO
+. SPH
+MEHU
+turn per 2 121211 to 3 seconds) SOL zlotalth (3RK)
+Inspection 6:
+Make sure that the SOL value on analvzer: I/O monitor 4-3 is switched between 1 and 0.
+Upon SOL ON: 1 SOL
+Upon SOL OFF: 0
+Standard: 715
+The knob SOL shall sometimes go ON/OFF when the steering wheel
+is turned from an end to another alternately. Perform this operation
+<l/O4-3>
+K-DIFF: 100SOL:0
+three times.
+MMED
+MENU
+333201 you day 202
+1270150101 wanz Mall
+0/2402 HIH
+4042M2L
+12250/
+5-181
+The knob position runs out. (The knob position in straight-forward status is not constant.)
+SOL 27 33 BEAZLEL
+D/L
+BALE 60131-CICL
+Inspection 1
+V20
+Turn the knob SOL OFF and inspect the steering wheel
+NG
+revolution upon stationary steering (turning speed: 1 turn per
+Knob solenoid valve open failure
+2 to 3 seconds)
+Steering wheel revolution is 6 or less
+(plunger sticking, etc.)
+between ends?
+NALL 1230150L2 onezall OK 333201 E6/01/202014)
+Inspection 2
+8/10/2020 ENKE 2
+12/20/2015 by
+Turn the knob SOL ON and make sure that the steering
+NG
+Knob solenoid valve closed failure
+wheel turns idle at the tire end (turning speed: 1 turn per 2 to
+(plunger sticking, orifice clogged, etc.)
+3 seconds).
+OK
+WA
+7/2/1986 0921 HEH BE EHG
+Inspection 3
+723620
+NG
+Is the tire voltage value changed when the steering wheel is
+Sensor or joint missing or damaged.
+turned to the right and left?
+RILL
+OK
+7/20/21
+2471-
+Inspection
+4 01/31/2017
+Yes
+Is the error code recorded?
+Is any current error provided in the record?
+No
+No
+Yes
+KAL5. 333201
+Go to the corresponding error code.
+razol 4/2/230
+Inspection 5
+NG
+Make sure that the knob position value changes smoothly
+Cam or steering wheel angle sensor defect.
+when the steering wheel is turned.
+DALL: zzzhol CY OK CEE RESTRICT
+01310171
+Inspection 6
+Make sure that the difference between the knob position
+NG
+values from the right and left is 4 or less when the steering
+Cam or steering wheel defect.
+wheel is turned from the right or left to the neutral (straight-
+forward) position.
+nam
+2017
+Inspection 7
+NG
+Check to see if the link has abnormality such as
+Inspect the gap between the tire angle sensor and the rubber
+bushing.
+STAYE
+slip off, damages, missing, etc.
+OK
+/CEAS
+NG $ Liss
+Rear
+axle cylinder link defect
+Rubber joint abnormality
+2448 rebol
+(eccentric pin, king pin, etc.)
+(looseness, gap, etc.)
+Inspection 8
+Does the speed value change according to the traveling
+NG
+Speed sensor defect.
+speed?
+7249
+OK
+2350150L01
+122
+(12247)
+Inspection 9
+OK
+Does the knob SOL go ON/OFF upon stationary steering to
+Knob solenoid valve defect (valve clogged, etc.)
+the right and left?
+NG
+SK/PS controller defect.
+RALL 122501 SOL2 OFFZ E2/2, (SHEE!
+Inz
+201
+3Hd)
+6
+5-182
+Inspection 1:
+Turn the knob SOL OFF and inspect the steering wheel revolution upon stationary steering (turning
+speed: 1 turn per 2 to 3 seconds)
+Steering wheel revolution, is 6 or less between ends?
+HK21 LEEKE / ZZ /221/2016
+Analyzer: ACTIVE TEST/KNOB POSITION CORRECTING SOLENOID
+9th
+Standard:
+,End SOLEZA
+Six or fewer rotations upon stationary steering after the knob SOL is
+turned OFF (turning speed: 1 turn per 2 to 3 seconds)
+<ACT-4> 11/
+KSOL:ON/OFF TO
+SPH
+DAL.
+12501
+SOLE710,
+373201
+2-338161)
+Inspection 2:
+Turn the knob SOL ON and make sure that the steering wheel turns idle at the tire end (turning speed:
+1
+turn per 2 to 3 seconds).
+1271 OLD DALI
+Analyzer: ACTIVE TEST/KNOB POSITION CORRECTING SOLENOID
+713: 12360150LE #12. 332101 3742
+Standard:
+When the knob SOL is turned ON, the steering wheel is turned to the
+8
+tire end, and the steering wheel is further turned, the steering wheel
+<ACT-4> \1/
+SOL:ON/OFF IQ
+SPH
+SPH
+shall turn idle (turning speed: 1 turn per 2 to 3 seconds).
+ezzolezzer
+22/13
+Haile?
+Inspection 3:
+Is the tire voltage value changed when the steering wheel is turned to the right and left?
+1/0 22/47/4/
+Analyzer: I/O MONITOR 4/TIRE ANGLE SENSOR VOLTAGE
+01/21/2020 ezzolezzez Elonation 709001. 22/2
+Standard:
+When the steering wheel is turned to the right and left, the tire voltage
+value should change smoothly and continuously in the whole rage.
+TAKL
+Inspection 4:
+one
+<1/04-4>
+TIRE: 2.50
+Is the error code recorded?
+SPH
+SPH
+MENU
+all DARY
+Analyzer: DIAG : MEMORY 9/3/21
+Standard:
+Errors shall not exist near the current time.
+8
+<DIAG-1>
+CO-1
+B 12345.6h
+TA5: 32201
+)
+SPH
+SP
+MENU
+Inspection 5:
+Make sure that the knob position value changes smoothly when the steering wheel is turned.
+Bull: 1/0 234141 7374 1726 91
+Analyzer: I/O MONITOR 4/STEERING ANGLE KNQB POSITION
+7175
+Standard:
+When the steering wheel is turned to the right and left, the knob posi-
+tion value shall change smoothly.
+<V/O4-2>
+K-POS:160 (150)
+0 to 159
+0 to 159
+repeated
+)
+MEHU
+001159-0914159
+DHZ
+HALL: ezer
+each
+2/7/0171
+40/7/97
+5-183
+Inspection 6:
+Make sure that the difference between the knob position values from the right and left is 4 or less when
+the steering wheel is turned from the right or left to the neutral (straight-forward) position.
+9/7/
+Analyzer: MONITOR 4/STEERING ANGLE KNOB POSITION
+Standard: 7P3: ezzet
+The difference between the knob position values from the right and
+left shall be 4 or less when the steering wheel is turned from the right
+or left to the neutral position.
+Example: Turning from the right end - 78
+8
+Gil
+Turning from the left end - 83
+<I/O4-2>
+K-POS:159(150)
+83-78=50 (NG)
+Note:
+oky, EETHELZ 30541 of 1/1
+Start from at least 1/3 turn before the TOYOTA mark center position.
+nan. 5/04/7/71 Trank 242 EYCL 22/24/4 21291914
+0470.mm
+MB
+E/EUTH
+2212
+2421
+Many
+01219
+Zklohd
+(CO225E)
+Inspection 7:
+(2.GOR)
+Jack up the vehicle until rear wheels leave the ground, and fully turn the steering wheel to either side.
+Then return the knob by approx. 70 mm (2.8 in) (approx. 25 degrees) from that position, and inspect
+variation in the tire voltage value. Inspect this for one direction at a time.
+12421 1/0 DAY14 1 Etolon ZLE
+Analyzer:
+I/O MONITOR 4/TIRE ANGLE SENSOR VOLTAGE
+Standard: 7/25: 2012(12)201)
+When the knob is alternately turned (tire is slightly moved) in 70 mm
+8
+(approximately 25 degrees), the tire voltage change shall be at least
+<V/O4-4>
+TIRE: 2.50
+0.02 V.
+KALE: LEON Date?
+Inspection 8:
+Does the speed value change according to the traveling speed?
+1/0 MAN21
+<VO2-5>
+SPD:M10.0 $10.5
+Analyzer: I/O MONITOR'2/VEHICLE SPEED
+SPH
+Standard:
+713: EEPE
+The speed value shall change according to the traveling speed.
+2019. 1/02/01/13301 IOLOXLOVA (718)
+Inspection 9:
+Make sure that the SOL value on analyzer: I/O monitor 4-3 is switched between 1 and 0.
+Upon SOL ON: 1 SOL
+Upon SOL OFF: 0 SOL
+Standard:
+The knob SOL shall sometimes go ON/OFF when the steering wheel is
+turned from an end to another alternately. Perform this operation three
+<I/O4-3>
+-DIFF: 100SOL:0
+times.
+DADDED
+WEHU
+713: 333201 dzzer 2012 E2/2001
+SOLE 71gd
+01/10/2020
+5-184
+PLUG-IN ANALYZER
+No Display on Screen
+07/09/2010
+Related portion
+31/97821
+CN103-10
+3127
+(16, D15V)
+2
+1
+CN103-12
+(14, GNDD)
+1
+13
+CN103-13
+(144, SMTDK)
+7
+8
+CN103-14
+RCC
+(143, SDTMK)
+8
+18
+CN103-15
+(142, SDTMA)
+4
+17
+CN103-16
+(141, SMTDA)
+3
+7
+CN1
+Analyzer CN
+CN103
+Estimated causes
+09/01/2018
+1
+2
+Analyzer
+Defective harness connector defect contact 3/2/2021 and bity (520) CPV-1523
+3
+Defect of plug-in analyzer itself (mainly CPU board defect and not ROM defect)
+CNIO
+Inspect CN1 and the analyzer
+NG
+72524
+connector for disconnection or
+Check the screen display after correction.
+defective contact.
+OK
+NG
+Inspection 1.
+13/27/1228
+NG
+Analyzer CN1
+>
+Analyzer harness defect
+voltage check
+Analyzer CN-13
+121, CN-13
+OK
+Plug-in analyzer defect
+5-185
+Inspection 1: RILL
+13(2)
+Analyzer
+Battery
+plug supply ON, voltage key switch check ON on.
+Measurement terminals
+Analyzer CN1 + - 13
+Tester range
+DC 50
+Standard
+7/3
+Approx. 15 V 04/5V
+Analyzer connector (REC)
++
+2/2/1 05/201
+GREEN good
+12345678910
+111213141516171819200
+Analyzer connector
+5/20/1997
+OK (Approx. 15 V)
+Plug-in analyzer defect + (0415V) 1220 of 1331 Day
+NG (0 V)
+Analyzer harness defect (ov)
+GENK 03319101 "2.nFB" THK "I.SAS"7} LLELLEEL
+5-186
+"1. SAS" is displayed instead of "2. 7FB" on the MAIN MENU screen.
+No data (error memory, I/O monitor 1-4) display. GIOLEL)L 1/022411-4)
+Related portion 26123
+CN103-10
+(16, D15V)
+2
+1
+CN103-12
+(14, GNDD)
+1
+13
+CN103-13
+(144, SMTDK)
+7
+8
+CN103-14
+(143, SDTMK)
+8
+18
+CN103-15
+(142, SDTMA)
+4
+17
+CN103-16
+(141, SMTDA)
+3
+7
+CN1
+Analyzer CN
+CN103
+Estimated causes
+Zzerd
+1
+2
+Analyzer Connector harness contact defect defect and ( head: cputs
+3
+Plug-in analyzer defect (mainly CPU defect and not ROM defect)
+4
+Traveling/material handling controller defect
+CHIRLESTICN Note
+Continuity check between
+NG
+Display check after correction
+CN1 and analyzer CN
+OK
+OK
+Inspection 1. 3244 09/17/2022
+13/31/1882 122
+NG
+Continuity check between CN1 and
+Analyzer harness defect
+analyzer CN
+BELL HEHLEY and
+OK
+Connect the plug-in analyzer to
+NG
+another vehicle and check if any data
+Plug-in analyzer defect
+is displayed.
+A
+5-187
+Inspection 2. RALL A
+Continuity check between CN103 and
+>
+Vehicle side harness defect
+CN1
+OK
+Traveling material handling controller defect
+244 cillet
+Inspection 1:
+7189 OFF, 144E121 EG2 OFF.
+Continuity check between CN1 and analyzer CN
+)
+Key switch off, battery plug off, and analyzer harness disconnection
+CN1-7 - Analyzer CN-8
+Measurement terminals
+CN1-8 - Analyzer CN-18
+CN1-4 - Analyzer CN-17
+CN1-3 - Analyzer CN-7
+Tester range
+S2x1
+Standard
+7/2
+05
+(202) 05/27/2021
+OK (on)
+Check by connecting the plug-in analyzer to another vehicle.
+NG ( 00 S2)
+Analyzer harness defect I 3/27/76 225
+KALL
+Inspection 2:
+Continuity check between CN103 and CN1
++ 7109k OFF, CH10301CN154
+Key switch off, battery plug off, CN103 and CN1 disconnection
+CN103-13 (144)-CN1-7 - (144)
+Measurement terminals
+CN103-14 (143)-CN1-4 - (143)
+ZMDS
+CN103-15 (142) - CN1-8 (142)
+CN103-16 (141)- - CN1-3 (141)
+Tester range 43021208
+Sox1
+Standard
+7/3
+on
+OK
+Traveling-material handling controller defect -
+NG (oo S2)
+Vehicle side harness defect 7 122
+19-1
+APPENDIX
+Page
+SST LIST
+19-2
+CONNECTOR DRAWING
+(FOR VEHICLE WITHOUT SAS)
+19-3
+CONNECTOR DRAWING
+(FOR VEHICLE WITH SAS)
+19-9
+CPU BOARD CONNECTOR DRAWING
+19-19
+DC/MD BOARD CONNECTOR DRAWING
+19-20
+SCPU BOARD CONNECTOR DRAWING
+19-21
+DC/SD BOARD CONNECTOR DRAWING
+19-22
+CONNECTING DIAGRAM
+(FOR VEHICLE WITHOUT SAS)
+19-23
+CONNECTING DIAGRAM
+(FOR VEHICLE WITH SAS)
+19-24
+WIRING DIAGRAM
+(FOR VEHICLE WITHOUT SAS)
+19-25
+WIRING DIAGRAM
+(FOR VEHICLE WITH SAS)
+19-26
+1
+19-2
+SST LIST
+Illust.
+Part No.
+Part Name
+AC controller
+09230-13130-71
+diagnosis kit
+To check the traveling/material handling system fan
+Sub-harness for
+09231-13130-71
+ON/OFF signal
+CN105
+To check MOS drive power supply ON/OFF signal
+For CN20, 52,
+To check each CPU board to sensor harness and the
+09232-13130-71
+55, 58, 86, 90
+CPU board itself
+and 94
+Sub-harness for
+To check if the CPU board and DC/MD drives the MOS
+09233-13130-71
+CN111, 112
+normally
+To check in combination with SST3
+Sub-harness for
+If the check result in connection with SST3 is NG, this
+09234-13130-71
+CN106, 107
+sub-harness is used to discriminate if the cause of NG
+lies in the CPU or DC/MD.
+Sub-harness for
+To check the ON/OFF signal of the swing lock cylinder
+09235-13130-71
+CN146
+solenoid and knob offset correcting valve solenoid
+To check signals from traveling speed sensors SSD1
+Sub-harness for
+09236-13130-71
+and SSD2
+CN57
+(Replaces the SSD1 and SSD2 signals.)
+To discriminate whether the steering angle sensor or
+Sub-harness for
+the harness/CPU board is defective by replacing STS1
+09237-13130-71
+CN19
+and STS2 signals
+To check steering angle sensor power supply
+To check the acceleration potentiometer short harness,
+Sub-harness for
+09238-13130-71
+harness from the CPU board to the acceleration
+CN25
+potentiometer and the CPU board
+To check the traveling/material handling system fan
+Sub-harness for
+09239-13130-71
+ON/OFF signal
+CN106, 107
+To check MOS drive power supply ON/OFF signal
+19-3
+CONNECTOR DRAWING (FOR VEHICLE WITHOUT SAS)
+4
+3
+2
+1
+1
+2
+3
+4
+CN9
+n.
+8
+7
+6
+5
+3
+123
+CN1
+5
+6
+7
+8
+654
+456
+TAB
+REC
+TAB
+REC
+NO
+P
+NO
+P
+C
+J
+C
+NO
+P
+J
+C
+NO
+P
+J
+C
+J
+1
+14
+BR
+1
+51
+CN2-4
+0
+I
+14
+DSF. DSR
+BR
+1
+CN103-12
+51
+R-L
+J1
+2
+16
+R
+2
+CN2-1
+120
+B
+2
+16
+DSFO
+R
+CN103-10
+2
+120
+Y-R
+CN24-1
+3
+141
+R-B
+CN1-8
+3
+103
+G
+3
+141
+DSBU
+W-R
+3
+CN103-16
+103
+R-W
+CN38-3
+4
+144
+R-Y
+4
+CN1-7
+46
+W-0
+4
+DSR
+143
+R-Y
+CN103-14
+4
+46
+G
+CN101-2
+5
+5
+45
+W-BR
+5
+DSF
+5
+45
+W
+CN101-1
+6
+6
+43
+R
+6
+DSFO, DSBU
+6
+43
+B-Y
+J7
+7
+144
+R-Y
+CN1-4
+7
+144
+G-R
+CN103-13
+8
+141
+R-B
+CN1-3
+8
+142
+R-B
+CN103-15
+2
+1
+1
+CN11
+2
+2
+CN3
+3
+I
+3
+2
+43
+34
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+NO
+P
+J
+C
+NO
+P
+J
+C
+NO
+P
+J
+C
+J
+1
+101
+R
+1
+60
+B
+G-W
+1
+101
+R
+CN29-1
+LS L
+1
+60
+G-W
+CN101-32
+2
+104
+G
+T
+2
+51
+R-L
+2
+NO
+104
+G-R
+2
+CN29-2
+51
+R-L
+J1
+3
+102
+R-G
+3
+63
+HS
+G-B
+3
+102
+R-G
+CN29-4
+LS ATT
+3
+63
+G-B
+CN101-11
+4
+107
+R-Y
+HM
+4
+107
+R-B
+CN29-5
+1
+CN4
+1
+4
+1
+4
+1
+TAB
+REC
+2
+CN12
+2
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+41
+-
+AM
+I
+41
+Y
+CN29-3
+TAB
+REC
+4
+43
+-
+IG
+4
+43
+B-Y
+CN29-6
+NO
+P
+C
+J
+NO
+P
+C
+J
+CN5
+1
+43
+-
+FRY
+1
+43
+B-Y
+CN103-12
+2
+110
+-
+FRY
+2
+110
+GR
+2
+1
+CN8-3
+1
+2
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+101
+Y
+LS ST
+2
+1
+101
+R
+1
+CN22-1
+2
+2
+111
+B-Y
+LS ST
+2
+111
+R-L
+CN38-2
+CN13
+345
+2
+1
+CN6
+I
+2
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+N1
+W-B
+LH-R
+1
+N1
+W-B
+J8
+1
+51
+B-W
+LS B
+1
+51
+R-L
+J1
+2
+102
+R-G
+LH-R
+2
+102
+R-G
+CN17-2
+2
+65
+R-L
+LS B
+2
+65
+Y-G
+CN45-4
+3
+N1
+W-B
+J8
+4
+108
+R-Y
+J12
+5
+104
+G-R
+CN38-4
+2
+1
+CN8
+1
+2
+6543
+2)
+CN15
+1)(2
+3456
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+1
+51
+-
+J
+NO
+P
+C
+J
+LS PB
+1
+51
+R-L
+J1
+I
+41
+GY
+2
+66
+-
+SW H(+)
+I
+41
+Y
+J6
+LS PB
+2
+66
+B-W
+CN101-4
+2
+48
+WB
+SW H(-)
+2
+48
+P
+H
+3
+110
+GW
+SW F(B)
+3
+110
+GR
+CN12-2
+4
+108
+G
+SW F (R)
+4
+108
+R-Y
+CN38-5
+5
+109
+GR
+SW F(L)
+5
+109
+G-Y
+CN38-6
+6
+6
+1
+19-4
+1
+1
+CN25
+DAD
+2
+CN16
+2
+2
+1
+1
+2
+TAB
+REC
+4
+3
+3
+4
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+107
+B
+PLW
+1
+107
+R-B
+CN29-5, CN38-7
+TAB
+REC
+2
+N1
+B
+PLW
+2
+N1
+W-B
+J8. J8
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+52
+GR
+CN26-3
+I
+52
+GR
+CN102-2
+2
+53
+R-B
+CN26-4
+2
+53
+R-B
+CN102-14
+3
+51
+R-L
+CN26-1
+3
+51
+R-W
+CN102-22
+2
+1
+2
+4
+64
+R-Y
+CN26-2
+4
+64
+R-Y
+CN102-1
+CN17
+345
+TAB
+REC
+4321
+CN26
+(1)2(4)
+NO
+P
+C
+J
+NO
+P
+C
+J
+TAB
+REC
+1
+N1
+W-B
+LH-L
+I
+N1
+W-B
+J8
+NO
+P
+C
+J
+NO
+P
+C
+J
+2
+102
+R-G
+LH-L
+2
+102
+R-G
+CN13-2
+1
+51
+-
+E2
+I
+51
+R-L
+CN25-3
+3
+N1
+W-B
+J8
+2
+64
+-
+IDL
+2
+64
+R-Y
+CN25-4
+4
+109
+G-Y
+J11
+3
+52
+-
+VTA
+3
+52
+GR
+CN25-1
+5
+104
+G-R
+J10
+4
+53
+-
+VC
+4
+53
+R-B
+CN25-2
+21
+2
+CN22
+43
+34
+321
+123
+CN29
+654
+456
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+TAB
+REC
+I
+101
+-
+F4
+1
+101
+R
+CN5-1
+NO
+P
+C
+J
+NO
+P
+C
+J
+2
+P1
+-
+F4.F5
+2
+P1
+B
+P1 terminal
+1
+101
+R
+CN3-1
+1
+101
+R
+J9
+3
+3
+2
+104
+G-R
+CN3-2
+2
+104
+G-R
+J10
+4
+41
+-
+F5
+4
+41
+Y
+J6
+3
+41
+Y
+CN4-1
+3
+41
+Y
+CN103-7
+4
+102
+R-G
+CN3-3
+4
+102
+R-G
+J15
+5
+107
+R-B
+CN3-4
+5
+107
+R-B
+CN16-1
+6
+43
+B-Y
+CN4-4
+6
+43
+B-Y
+J7
+1
+CN23
+1
+2
+2
+TAB
+REC
+21
+CN31
+12
+NO
+P
+C
+J
+NO
+P
+C
+J
+43
+34
+1
+103
+R-W
+BZ
+1
+103
+R-W
+J13
+2
+N1
+8
+BZ
+2
+N1
+W-B
+J8
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+104
+L
+TL
+1
+104
+G-R
+J43
+1
+CN24
+1
+2
+111
+L
+STP
+2
+111
+R-L
+J41
+2
+2
+3
+109
+L
+TRN
+3
+109
+G-Y
+CN38-6
+4
+N1
+L
+E
+4
+N1
+W-B
+J46
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+120
+R-W
+CHI
+1
+120
+Y-R
+CN9-2
+2
+N1
+B
+CHI
+2
+N1
+W-B
+J30
+19-5
+CN31-1
+3
+2
+123
+2
+1
+2
+654
+456
+3
+CN39
+3
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+TAB
+REC
+I
+104
+R-W
+LT-L
+I
+104
+G-R
+J43
+NO
+P
+C
+J
+NO
+P
+C
+J
+2
+N1
+W-B
+GND
+2
+N1
+W-B
+J46
+I
+145
+Y-R
+CN2-2
+1
+145
+Y-R
+CN101-25
+3
+N1
+Y
+LF-RL
+3
+N1
+W-B
+J46
+2
+146
+R
+CN2-1
+2
+146
+R
+CN101-15
+4
+111
+R-B
+LST-L
+4
+111
+R-L
+J41
+3
+41
+Y
+HM
+3
+41
+Y
+J6
+5
+103
+R
+LF-LR
+5
+103
+R-W
+J42
+6
+109
+G-W
+LF-RL
+6
+109
+G-Y
+J45
+2
+1
+0
+1
+2
+21
+12
+CN40
+3
+43
+CN34
+34
+65
+TAB
+56
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+TAB
+N1
+W-B
+HM
+1
+N1
+W-B
+REC
+N1 terminal
+2
+43
+B-Y
+CN41
+2
+43
+B-Y
+J7
+NO
+P
+C
+J
+NO
+P
+C
+J
+3
+3
+1,39
+P
+CN68-1
+I
+104
+R
+TL
+1
+104
+G-R
+J43
+4
+2
+111
+R
+STP
+2
+111
+R-L
+J41
+3
+103
+R
+B/U
+3
+103
+R-W
+J42
+4
+4
+5
+108
+R
+TRN
+5
+108
+R-Y
+J44
+1
+CN41
+1
+6
+N1
+R
+E
+6
+N1
+W-B
+J46
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+CN34-1
+43
+B-Y
+HM
+1
+43
+B-Y
+CN40-2
+321
+123
+654
+456
+TAB
+REC
+2
+1
+1
+2
+CN42
+NO
+P
+. C
+J
+NO
+P
+C
+J
+TAB
+REC
+1
+104
+R-W
+LT-R
+1
+104
+G-R
+CN38-4
+2
+N1
+W-B
+GND
+2
+N1
+W-B
+J46
+NO
+P
+C
+J
+NO
+P
+C
+J
+3
+N1
+Y
+LF-RR
+3
+N1
+W-B
+J46
+1
+67
+R
+CN43-1
+I
+67
+B-Y
+CN101-5
+4
+111
+R-B
+LST-R
+4
+111
+R-L
+CN38-2
+2
+51
+P
+CN43-2
+2
+51
+R-L
+J1
+5
+103
+8
+LF-RR
+5
+103
+R-W
+J42
+6
+108
+G-W
+LF-RR
+6
+108
+R-Y
+CN38-5
+2
+1
+CN43
+1
+2
+TAB
+REC
+3
+21
+CN38
+12
+3
+NO
+P
+C
+J
+NO
+P
+C
+J
+87654
+45678
+1
+67
+R
+LS
+1
+67
+R
+CN42-1
+2
+51
+P
+LS
+2
+51
+P
+CN42-2
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+120
+Y-R
+J14
+I
+120
+Y-R
+LF-R
+2
+111
+R-L
+CN5-2
+2
+111
+R-L
+CN34-1-4
+1
+1
+3
+103
+R-W
+CN9-3
+3
+103
+R-W
+LF-R
+2
+CN50
+2
+4
+104
+G-R
+CN13-5
+4
+104
+G-R
+CN34-1-1
+5
+108
+R-Y
+CN8-4
+5
+108
+R-Y
+CN34-1-6
+TAB
+REC
+6
+109
+G-Y
+CN8-5
+6
+109
+G-Y
+CN31-3
+NO
+P
+C
+J
+NO
+P
+C
+J
+7
+107
+R-B
+CN16-1
+7
+107
+R-B
+LW
+1
+P21
+B
+Motor A
+I
+P21
+L
+CN51-1
+8
+N1
+W-B
+J8
+8
+N1
+W-B
+LR
+2
+P23
+B
+Motor B
+2
+P23
+W
+CN51-3
+CN52
+BAB
+20
+(1)-2
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+87
+-
+SW
+1
+87
+P
+CN102-11
+2
+86
+-
+SW
+2
+86
+B-Y
+CN102-10
+1
+19-6
+CN53
+BAR
+For volume selectable buzzer
+20
+112
+TAB
+REC
+21
+12
+NO
+P
+C
+J
+NO
+P
+C
+J
+CN80
+43
+34
+1
+81
+-
+SSD1
+I
+81
+G
+CN57-1
+2
+80
+-
+SSD1
+2
+80
+B
+CN57-4
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+125
+-
+BZ
+I
+125
+GR
+CN81-3
+CN54
+RAI
+2
+N1
+-
+BZ
+2
+N1
+W-B
+CN23-2
+21
+1)(2)
+I
+127
+-
+BZ
+3
+127
+R-Y
+CN81-4
+REC
+2
+126
+-
+BZ
+4
+126
+R-L
+CN81-5
+TAB
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+82
+-
+SSD2
+1
+82
+BR
+CN57-3
+2
+80
+-
+SSD2
+2
+80
+B
+J24
+321
+123
+CN81
+654
+456
+CN55
+BAR
+(2)(1)
+1)(2)
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+103
+-
+SWBZ
+I
+103
+R-W
+CN23-1
+1
+89
+-
+STM
+1
+89
+W-R
+CN102-13
+2
+103
+-
+SWBZ
+2
+103
+R-W
+CN23-1
+2
+88
+Y-G
+3
+125
+-
+SWBZ
+3
+125
+GR
+CN80-1
+-
+STM
+2
+88
+CN102-12
+4
+127
+-
+SWBZ
+4
+127
+R-Y
+CN80-3
+CN56
+5
+126
+-
+SWBZ
+5
+126
+R-L
+CN80-4
+2
+1
+1
+2
+6
+6
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+85
+-
+SSP
+1
+85
+W-G
+CN58-1
+2
+84
+-
+SSP
+2
+84
+B-R
+CN58-2
+For wiper
+2
+2
+3
+CN57
+3Y4
+I
+1
+2
+CN36
+2
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+81
+G
+CN53-1
+1
+81
+W-L
+CN102-6
+I
+124
+R
+DMWP
+1
+124
+R-B
+RWP2
+2
+2
+83
+BR
+CN102-19
+2
+N1
+W-B
+DMWP
+2
+N1
+W-B
+CN84-2
+3
+82
+BR
+CN54-1
+3
+82
+B-W
+CN102-7
+4
+80
+B
+CN53-3
+4
+80
+G-R
+CN102-18
+CN58
+2)1
+1
+2
+4321
+1234
+8765
+CN83
+5678
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+TAB
+REC
+I
+85
+W-G
+CN56-1
+1
+85
+W-G
+CN102-9
+NO
+P
+C
+J
+NO
+P
+C
+J
+2
+84
+B-R
+CN56-2
+2
+84
+B-R
+CN102-8
+1
+121
+-
+SWWIPER
+I
+121
+R-L
+FWP
+2
+2
+3
+3
+CN59
+2T1
+1T2
+4
+4
+5
+5
+TAB
+REC
+6
+6
+7
+122
+-
+SWWIPER
+7
+122
+R
+CN84-1
+NO
+P
+C
+J
+NO
+P
+C
+J
+8
+8
+1
+5
+B
+MPS
+1
+5
+B-R
+CN103-5
+2
+6
+B
+MPS
+2
+6
+R-L
+CN102-6
+1
+1
+2
+CN84
+2
+21
+12
+TAB
+REC
+CN79
+43
+34
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+122
+R
+RWP1
+1
+122
+R
+CN83-7
+TAB
+REC
+2
+N1
+W-B
+CN36-2
+2
+N1
+W-B
+Joint with CN40-1
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+51
+-
+SWMODE
+1
+51
+R-L
+CN101-26
+2
+92
+-
+SWMODE
+2
+92
+R-B
+CN101-21
+1
+91
+-
+SWMODE
+3
+91
+GR
+CN101-20
+2
+90
+-
+SWMODE
+4
+90
+0
+CN101-19
+E-INO
+H-M
+191
+91
+-
+191
+91
+8-INO
+8-8
+212
+91
+VWIGS
+-
+91
+PE
+9E
+P-INO
+-
+E
+1
+XW10S
+-
+#1
+EE
+EE
+L-INO
+-9
+21
+El
+-
+999
+E1
+1-11N0
+M-9
+09
+ZE
+17ST
+09
+1-INO
+88
+91
+21
+GOND
+-
+1
+21
+1E
+1E
+11
+11
+08
+08
+Z-IND
+dc
+91
+01
+1910
+-
+91
+01
+67
+62
+6
+6
+82
+8
+8
+8
+LC
+LC
+E-6ZNO
+A
+If
+L
+188A
+-
+1
+L
+1-6LNO
+7-8
+19
+9
+-S7
+19
+97
+Z-69NO
+7-8
+9
+9
+-170S
+-
+9
+9
+1-68N0
+d-1
+SZ
+0818
+-
+Stl
+92
+1-69NO
+-8
+S
+S
++170S
+-
+S
+S
+92
+92
+1-21NO
+1-8
+E
+t
+AXBA
+-
+E
+&
+EZ
+EZ
+9r
+l
+It
+E
+989
+-
+It
+E
+22
+22
+Z
+2
+Z-6LNO
+8-8
+26
+12
+Z-ZHW
+-
+26
+12
+I
+I
+E-6LNO
+89
+16
+02
+1-
+-
+16
+02
+r
+0
+d
+ON
+C
+0
+d
+ON
+P-6LNO
+0
+06
+61
+HH
+-
+06
+61
+ALL
+81
+81
+E-L8ND
+7
+29
+Ll
+HIST
+-
+29
+Ll
+91
+11
+E
+ZI
+1-L8ND
+-9
+19
+91
+3157
+-
+19
+91
+01 6 8
+8
+6
+01
+Z-6END
+dc
+91
+91
+0818
+-
+91
+11
+L
+9
+11
+S
+99
+L
+01-101N0
+1-9
+80€
+El
+XWISS
+-
+80€
+El
+1821
+1287
+EOINO
+6-101N0
+9-M
+LOE
+21
+VWISS
+-
+LOE
+21
+E-LINO
+8-9
+E9
+11
+HAST
+-
+€9
+11
+E1-101N0
+1-9
+80€
+01
+XSIWS
+-
+80€
+01
+21-101N0
+9-M
+LOE
+6
+VSIWS
+-
+E-SINO
+-
+19
+22
+-10d
+-
+IS
+22
+LOE
+6
+12
+8
+12
+8
+02
+L
+02
+L
+Z-LSNO
+88
+E8
+61
+9
+-ass
+-
+88
+61
+9
+1-8
+L9
+9
+OST
+-
+D-LSNO
+-9
+08
+81
++SSS
+08
+L9
+-
+81
+S
+Z-SING
+M-8
+99
+Ll
+$
+ads7
+-
+Ll
+99
+&
+Z-9NO
+9-1
+99
+E
+8S7
+-
+91
+91
+99
+E
+-6NO
+9
+9
+2
+asa
+-
+91
+9$
+Z
+91
+Z-SUNO
+S-6NO
+8-8
+M
+ES
+11
+St
+I
+USA
+-
+ES
+71
+St
+I
+-
+r
+1-SSNO
+U-M
+I
+68
+El
+d
+ON
+-d1
+r
+0
+-
+68
+El
+d
+ON
+Z-SSNO
+9-1
+88
+21
++d1
+-
+88
+21
+ALL
+1-ZSNO
+di
+L8
+11
+-01
+-
+L8
+11
+Z-ZSNO
+1-8
+98
+01
++01
+-
+98
+01
+98
+EE
+28
+18
+08
+62
+87
+LT
+LO
+80
+67
+08
+1E
+28
+EE
+DE
+1-89NO
+9-M
+98
+6
+-dss
+-
+98
+6
+97
+97
+76
+EZ
+22
+12/02
+61
+8
+L
+LI
+81
+61
+07
+17
+27
+EZ
+92
+ST
+Z-89NO
+97
+-8
+98
+8
++dSS
+-
+8
+8
+E-LSNO
+M-8
+28
+91
+L
+lass
+9
+71
+El
+-
+28
+L
+211
+1121
+Ell
+1
+SI 91
+1-LSNO
+7-M
+18
+9
+loss
+-
+18
+9
+01
+6
+8
+99
+E
+I
+I
+E
+9
+L81
+6
+01
+9
+S
+&
+P
+E
+E
+1-SENO
+do
+as
+LOINO
+Z
+110d
+-
+29
+Z
+SCHOOL
+1-8
+9
+I
+OVMS
+-
+99
+I
+I
+d
+ON
+r
+0 d ON
+ALL
+In
+7-8
+19
+&
+-S7
+7-8
+19
+$
+LL-101N0
+1
+29
+E
+HIST
+1
+29
+E
+If
+61 81
+816
+61
+7-8
+07 17 22
+19
+2
+-S7
+7-8
+19
+2
+91-101N0
+-9
+19
+I
+31ST
+y-9
+19
+I
+21512191
+LI
+r
+I
+d
+ON
+r
+I
+d
+ON
+11
+01
+6
+8L
+L8
+6 01 I
+ALL
+957821
+128159
+ZOINO
+GO
+L8NO
+DC
+L-61
+19-8
+CN101-26
+CN9-2
+CN42-2
+CN87-4
+For front combination lamp
+CN9-1
+CN87-2
+J1
+CN24-1
+J14
+CN6-1
+CN11-2
+CN15-1
+CN38-1
+2
+1
+1
+2
+CN79-1
+(120, Y-R)
+543
+345
+(51, R-L)
+CN13
+CN13-2
+CN103-12
+TAB
+REC
+CN68-2
+J5
+CN1-1
+J15
+CN29-4
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+N1
+W-B
+CN14-5
+I
+N1
+W-B
+J8
+(14. BR)
+CN17-2
+2
+102
+R-G
+CN14-3
+2
+102
+R-G
+CN17-2
+CN103-3
+(102, R-G)
+CN103-7
+3
+N1
+W-B
+CN14-1
+3
+N1
+W-B
+J8
+CN39-3
+4
+108
+G-Y
+CN14-4
+4
+108
+R-Y
+J12
+J6
+CN57-4
+5
+104
+G-R
+CN14-2
+5
+104
+G-R
+CN38-4
+CN29-3
+CN22-4
+CN8-1
+J24
+CN54-2
+(41, Y)
+CN102-18
+123
+CN103-4
+321
+CN14
+CN9-6
+(80.B)
+54
+4
+5
+J7
+CN40-2
+CN38-2
+CN29-6
+CN31-1-4
+TAB
+REC
+CN12-1
+J41
+CN34-2
+(43. B-Y)
+CN31-2
+NO
+P
+C
+J
+NO
+P
+C
+J
+CN34-1-4
+1
+N1
+-
+GND
+1
+N1
+W-B
+CN13-3
+CN40-1
+2
+104
+-
+LC-R
+2
+104
+G-R
+CN13-5
+CN38-8
+CN16-2
+(111,R-L)
+3
+102
+-
+H/L
+3
+102
+R-G
+CN13-2
+CN38-3
+CN31-1-5
+4
+108
+-
+LF-R
+4
+108
+G-Y
+CN13-4
+CN23-2
+J8
+H
+5
+N1
+-
+GND
+5
+N1
+W-B
+CN13-1
+J42
+L.,
+CN34-3
+CN24-2
+CN17-3
+CN34-1-5
+CN13-1
+CN17-1
+N1 terminal
+(103.R-W)
+2
+1
+1
+2
+(N1.W-B)
+CN38-4
+CN34-1-1
+543
+CN17
+345
+CN5-1
+Lit
+J43
+CN34-1
+J9
+CN29-1
+L
+L-R
+CN31-1
+TAB
+REC
+CN31-1-1
+NO
+P
+C
+CN22-1
+(104, G-R)
+C
+J
+NO
+P
+J
+CN38-5
+1
+N1
+W-B
+CN18-5
+1
+N1
+W-B
+J8
+(101,R)
+2
+102
+R-G
+CN18-3
+2
+102
+R-G
+CN13-2
+CN13-5
+J44
+CN34-5
+3
+N1
+W-B
+CN18-1
+3
+N1
+W-B
+J8
+4
+109
+G-Y
+CN18-4
+4
+109
+G-Y
+J11
+CN34-1-6
+CN17-5
+J10
+CN29-2
+5
+104
+G-R
+CN18-2
+5
+104
+G-R
+J10
+(108, R-Y)
+CN38-4
+CN38-6
+(104, G-R)
+J45
+CN31-3
+321
+CN18
+123
+CN8-5
+CN31-1-6
+54
+45
+(109, G-Y)
+J11
+CN17-4
+CN38-1
+TAB
+REC
+CN38-6
+LL+
+L,
+NO
+P
+C
+J
+NO
+P
+C
+J
+L L-R
+(109, G-Y)
+1
+N1
+-
+GND
+I
+N1
+W-B
+CN17-3
+CN31-4
+J46
+CN34-6
+2
+104
+-
+LC-L
+2
+104
+G-R
+CN17-5
+CN8-4
+CN31-1-2
+CN34-1-3
+3
+102
+-
+H/L
+3
+102
+R-G
+CN17-2
+4
+109
+-
+LF-L
+4
+109
+G-Y
+CN17-4
+J12
+CN13-4
+CN31-1-3
+CN34-1-2
+L.
+5
+N1
+-
+GND
+5
+N1
+W-B
+CN17-1
+(N1.W-B)
+CN38-5
+(108, R-Y)
+CN9-3
+J13
+CN23-1
+CN38-3
+(103, R-W)
+19-9
+CONNECTOR DRAWING (FOR VEHICLE WITH SAS)
+CN9
+run
+4
+3
+2
+1
+321
+123
+1
+2
+3
+4
+654
+456
+8
+7
+6
+5
+CN1
+5
+6
+7
+8
+TAB
+REC
+NO
+P
+C
+TAB
+J
+NO
+P
+REC
+C
+J
+I
+51
+0
+DSF. DSR
+I
+51
+R-L
+J1
+NO
+P
+C
+J
+NO
+P
+C
+J
+2
+120
+B
+DSFO
+2
+120
+Y-R
+CN24-1
+1
+14
+BR
+CN70-30
+I
+14
+BR
+CN103-12
+3
+103
+G
+DSBU
+3
+103
+R-W
+CN38-3
+2
+16
+R
+CN70-14
+2
+16
+R
+CN103-10
+4
+46
+W-0
+DSR
+4
+46
+G
+CN101-2
+3
+141
+W-R
+CN70-22
+3
+141
+W-R
+CN103-16
+5
+45
+W-BR
+DSF
+5
+45
+W
+CN101-1
+4
+143
+R-Y
+CN70-24
+4
+143
+R-Y
+CN103-14
+6
+43
+R
+DSFO, DSBU
+6
+43
+B-Y
+J7
+5
+138
+W-L
+CN70-5
+5
+138
+W-L
+CN141-13
+6
+137
+R-G
+CN70-4
+6
+137
+R-G
+CN141-14
+7
+144
+G-R
+CN70-23
+7
+144
+G-R
+CN103-13
+2
+1
+1
+8
+R-B
+8
+142
+CN11
+2
+142
+CN70-21
+R-B
+CN103-15
+3
+3
+21
+CN3
+1
+2
+43
+34
+TAB
+REC
+NO
+P
+C
+TAB
+J
+NO
+P
+C
+REC
+J
+I
+60
+G-W
+LS
+I
+60
+G-W
+CN101-32
+NO
+P
+C
+J
+NO
+P
+C
+J
+2
+51
+R-L
+NO
+2
+51
+R-L
+J1
+I
+101
+R
+B
+I
+101
+R
+CN29-1
+3
+63
+G-B
+LS ATT
+3
+63
+G-B
+CN101-11
+2
+104
+G
+T
+2
+104
+G-R
+CN29-2
+3
+102
+R-G
+HS
+3
+102
+R-G
+CN29-4
+4
+107
+R-Y
+HM
+4
+107
+R-B
+CN29-5
+1
+1
+1
+CN4
+2
+1
+CN12
+2
+4
+4
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+NO
+P
+J
+C
+J
+NO
+P
+C
+J
+1
+41
+-
+AM
+I
+41
+Y
+I
+43
+-
+CN29-3
+FRY
+1
+43
+B-Y
+CN103-12
+4
+43
+-
+IG
+4
+43
+2
+110
+-
+B-Y
+CN29-6
+FRY
+2
+110
+GR
+CN8-3
+CN5
+2
+1
+1
+2
+2
+1
+2
+TAB
+REC
+543
+CN13
+345
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+101
+Y
+LS ST
+1
+101
+R
+CN22-1
+2
+111
+TAB
+REC
+B-Y
+LS ST
+2
+111
+R-L
+CN38-2
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+N1
+W-B
+CN14-5
+1
+N1
+W-B
+J8
+2
+1
+CN6
+1
+2
+2
+102
+R-G
+CN14-3
+2
+102
+R-G
+CN17-2
+TAB
+3
+N1
+W-B
+CN14-1
+REC
+3
+N1
+W-B
+J8
+4
+108
+G-Y
+CN14-4
+4
+108
+R-Y
+J12
+NO
+P
+C
+J
+NO
+P
+C
+J
+5
+104
+G-R
+CN14-2
+5
+104
+G-R
+CN38-4
+I
+51
+B-W
+LS B
+I
+51
+R-L
+J1
+2
+65
+R-L
+LS B
+2
+65
+Y-G
+CN45-4
+321
+CN14
+123
+54
+45
+2
+1
+CN8
+1
+2
+TAB
+REC
+6543
+3456
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+N1
+-
+GND
+1
+N1
+W-B
+CN13-3
+TAB
+REC
+2
+104
+-
+LC-R
+2
+104
+G-R
+CN13-5
+NO
+P
+C
+J
+3
+102
+-
+NO
+P
+C
+H/L
+J
+3
+102
+R-G
+CN13-2
+1
+41
+GY
+SW H(+)
+4
+I
+108
+-
+41
+Y
+LF-R
+J6
+4
+108
+G-Y
+CN13-4
+2
+48
+WB
+5
+N1
+-
+SW H(-)
+2
+48
+P
+GND
+H
+5
+N1
+W-B
+CN13-1
+3
+110
+GW
+SW
+F(B)
+3
+110
+GR
+CN12-2
+4
+108
+G
+SW F(R)
+4
+108
+R-Y
+CN38-5
+5
+109
+GR
+SW F(L)
+5
+109
+G-Y
+CN38-6
+2)1
+CN15
+1)(2
+6
+6
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+51
+-
+LS PB
+1
+51
+R-L
+J1
+2
+66
+-
+LS PB
+2
+66
+B-W
+CN101-4
+19-10
+1
+1
+1
+CN23
+1
+2
+CN16
+2
+2
+2
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+107
+B
+PLW
+1
+107
+R-B
+CN29-5, CN38-7
+I
+103
+R-W
+BZ
+1
+103
+R-W
+J13
+2
+N1
+B
+PLW
+2 N1
+W-B
+J8, J8
+2
+N1
+B
+BZ
+2
+N1
+W-B
+J8
+1
+1
+CN24
+1
+2
+2
+2
+1
+2
+TAB
+REC
+543
+CN17
+345
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+120
+R-W
+CHI
+1
+120
+Y-R
+CN9-2
+2
+N1
+B
+CHI
+2
+N1
+W-B
+J30
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+BAD
+CN25
+NAT
+1
+N1
+W-B
+CN18-5
+1
+N1
+W-B
+J8
+2
+1
+1
+2
+2
+102
+R-G
+CN18-3
+2
+102
+R-G
+CN13-2
+4
+3
+3
+4
+3
+N1
+W-B
+CN18-1
+3
+N1
+W-B
+J8
+4
+109
+G-Y
+CN18-4
+4
+109
+G-Y
+J11
+5
+104
+G-R
+CN18-2
+5
+104
+G-R
+J10
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+A
+1
+52
+GR
+CN26-3
+1
+52
+GR
+CN102-2
+123
+2
+53
+R-B
+CN26-4
+2
+53
+R-B
+CN102-14
+321
+CN18
+3
+51
+R-L
+CN26-1
+3
+51
+R-W
+J2
+45
+4
+64
+R-Y
+CN26-2
+4
+64
+R-Y
+CN102-1
+54
+TAB
+REC
+4)3(2)(1)
+CN26
+1234
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+N1
+-
+GND
+I
+N1
+W-B
+CN17-3
+TAB
+REC
+2
+104
+-
+LC-L
+2
+104
+G-R
+CN17-5
+NO
+P
+C
+J
+NO
+P
+C
+J
+3
+102
+-
+H/L
+3
+102
+R-G
+CN17-2
+1
+51
+-
+E2
+I
+51
+R-L
+CN25-3
+4
+109
+-
+LF-L
+4
+109
+G-Y
+CN17-4
+2
+64
+-
+IDL
+2
+64
+R-Y
+CN25-4
+5
+N1
+-
+GND
+5
+N1
+W-B
+CN17-1
+3
+52
+-
+VTA
+3
+52
+GR
+CN25-1
+4
+53
+-
+VC
+4
+53
+R-B
+CN25-2
+321
+CN19
+1
+2
+3
+654
+456
+321
+2
+3
+CN29
+654
+456
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+311
+R
+STS+
+1
+311
+W-R
+CN141-17
+1
+101
+R
+CN3-1
+I
+101
+R
+J9
+2
+2
+2
+104
+G-R
+CN3-2
+2
+104
+G-R
+J10
+3
+315
+B
+STS-
+3
+315
+BR
+CN141-16
+3
+41
+Y
+CN4-1
+3
+41
+Y
+CN103-7
+4
+312
+W
+STS1
+4
+312
+G-W
+CN141-6
+4
+102
+R-G
+CN3-3
+4
+102
+R-G
+J15
+5
+313
+G
+STS2
+5
+313
+R-Y
+CN141-7
+5
+107
+R-B
+CN3-4
+5
+107
+R-B
+CN16-1
+6
+314
+BR
+STSC
+6
+314
+L
+CN141-8
+6
+43
+B-Y
+CN4-4
+6
+43
+B-Y
+J7
+21
+12
+CN22
+43
+34
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+101
+-
+F4
+1
+101
+R
+CN5-1
+2
+P1
+-
+F4,F5
+2
+P1
+B
+P1 terminal
+3
+3
+4
+41
+-
+F5
+4
+41
+Y
+J6
+19-11
+21
+CN31
+12
+3
+21
+CN38
+12
+3
+43
+34
+87654
+45678
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+NO
+P
+C
+C
+J
+J
+NO
+P
+C
+J
+1
+104
+L
+TL
+I
+120
+I
+104
+Y-R
+G-R
+J14
+J43
+1
+120
+Y-R
+LF-R
+2
+111
+L
+STP
+2
+2
+111
+111
+R-L
+R-L
+CN5-2
+J41
+2
+111
+R-L
+CN34-1-4
+3
+109
+L
+TRN
+3
+103
+3
+109
+R-W
+G-Y
+CN9-3
+CN38-6
+3
+103
+R-W
+LF-R
+4
+N1
+L
+E
+4
+104
+4
+N1
+G-R
+W-8
+CN13-5
+J46
+4
+104
+G-R
+CN34-1-1
+5
+108
+R-Y
+CN8-4
+5
+108
+R-Y
+CN34-1-6
+6
+109
+G-Y
+CN8-5
+6
+109
+G-Y
+CN31-3
+7
+107
+R-B
+CN16-1
+7
+107
+R-B
+CN31-1
+LW
+8
+N1
+W-B
+J8
+8
+3
+2
+N1
+W-B
+LR
+123
+654
+456
+II
+TAB
+REC
+2
+1
+n
+A
+NO
+P
+C
+J
+NO
+P
+C
+J
+p
+4
+3
+1
+2
+1
+104
+R-W
+LT-L
+I
+104
+G-R
+J43
+CN40
+2
+3
+N1
+4
+W-B
+GND
+2
+N1
+W-B
+J46
+3
+N1
+Y
+LF-RL
+3
+N1
+W-B
+J46
+TAB
+REC
+4
+111
+R-B
+LST-L
+4
+111
+R-L
+J41
+NO
+5
+P
+103
+C
+R
+J
+LF-LR
+NO
+P
+5
+C
+103
+R-W
+J
+J42
+1
+N1
+6
+109
+W-B
+G-W
+CN70-15
+LF-RL
+1
+6
+N1
+109
+W-B
+G-Y
+N1 terminal
+J45
+2
+43
+B-Y
+CN70-1
+2
+43
+B-Y
+J7
+3
+139
+P
+CN70-19
+3
+139
+P
+CN68-1
+21
+12
+4
+140
+B
+CN70-20
+4
+140
+B
+CN35-1
+43
+CN34
+34
+65
+56
+TAB
+REC
+2
+I
+P
+C
+J
+NO
+CN42
+1
+2
+NO
+P
+C
+J
+1
+104
+R
+TAB
+TL
+I
+104
+G-R
+REC
+J43
+2
+111
+R
+STP
+2
+111
+R-L
+J41
+NO
+P
+C
+J
+NO
+P
+C
+J
+3
+103
+R
+B/U
+3
+103
+R-W
+J42
+1
+67
+R
+CN43-1
+I
+67
+B-Y
+CN101-5
+4
+4
+2
+51
+P
+CN43-2
+2
+51
+R-L
+J1
+5
+108
+R
+TRN
+5
+108
+R-Y
+J44
+6
+N1
+R
+E
+6
+N1
+W-B
+J46
+3
+2
+CN34-1
+2
+1
+123
+CN43
+1
+2
+654
+456
+TAB
+REC
+NO
+P
+C
+J
+TAB
+NO
+P
+C
+J
+REC
+1
+67
+R
+LS,
+I
+67
+R
+CN42-1
+NO
+P
+C
+J
+NO
+P
+C
+J
+2
+51
+P
+LS,
+2
+51
+P
+CN42-2
+I
+104
+R-W
+LT-R
+1
+104
+G-R
+CN38-4
+2
+N1
+W-B
+GND
+2
+N1
+W-B
+J46
+3
+N1
+Y
+LF-RR
+3
+N1
+W-B
+J46
+4
+111
+R-B
+LST-R
+4
+111
+R-L
+CN38-2
+5
+103
+8
+LF-RR
+5
+103
+R-W
+J42
+6
+108
+G-W
+LF-RR
+6
+108
+R-Y
+CN38-5
+CN35
+1
+1
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+140
+B
+SLL
+1
+140
+B
+CN40-4
+19-12
+1
+1
+With voice warning
+CN50
+2
+2
+TAB
+REC
+3
+2
+1
+1
+2
+3
+NO
+P
+C
+J
+NO
+P
+C
+J
+6
+5
+4
+CN45
+4
+5
+6
+I
+P21
+B
+Motor A
+I
+P21
+L
+CN51-1
+2
+P23
+B
+Motor B
+2
+P23
+W
+CN51-3
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+180
+G-W
+CN46-1
+I
+180
+G-W
+CN70-7
+2
+1
+2
+2
+181
+G-Y
+CN46-2
+2
+181
+G-Y
+CN70-13
+3
+182
+G-B
+CN46-3
+3
+182
+G-B
+CN70-12
+43
+3
+4
+4
+183
+BR-W
+CN46-4
+4
+183
+BR-W
+CN70-28
+5
+184
+BR-R
+CN46-5
+5
+184
+BR-R
+CN70-29
+6
+43
+B-Y
+CN47-1
+6
+43
+B-Y
+J21
+TAB
+CN51
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+P21
+W
+TMPS
+1
+P21
+L
+CN50-1
+3
+2
+1
+1
+2
+3
+2
+P21
+R
+TMPS
+2
+P21
+R
+F3
+3
+P23
+G
+TMPS
+3
+P23
+W
+CN50-2
+6Y5Y4
+CN46
+4
+5
+6
+4
+N1
+B
+TMPS
+4
+N1
+W-B
+N1 terminal
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+180
+G-W
+CN48-1
+1
+180
+G-W
+CN45-1
+2
+181
+G-Y
+CN48-2
+2
+181
+G-Y
+CN52
+BAR
+CN45-2
+3
+182
+G-8
+CN48-3
+3
+182
+G-B
+CN45-3
+2(1
+1)
+4
+183
+BR-W
+CN48-4
+4
+183
+BR-W
+CN45-4
+TAB
+REC
+5
+184
+BR-R
+CN48-5
+5
+184
+BR-R
+CN45-5
+NO
+P
+C
+J
+NO
+P
+C
+J
+6
+6
+1
+87
+-
+SW
+1
+87
+P
+CN102-11
+2
+86
+-
+SW
+2
+86
+B-Y
+CN102-10
+CN53
+RAR
+2
+1
+CN47
+1
+2
+21
+1)(2
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+81
+-
+SSD1
+1
+81
+G
+CN57-1
+I
+43
+B-Y
+CN49-1
+1
+43
+B-Y
+CN45-6
+2
+80
+-
+SSD1
+2
+80
+B
+CN57-4
+2
+N1
+W-B
+CN49-2
+2
+N1
+W-B
+N1 terminal
+finn
+CN54
+BAS
+21
+1)
+3
+2
+1
+1
+2
+3
+TAB
+REC
+6)5Y4
+CN48
+4
+5
+6
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+82
+-
+SSD2
+1
+82
+BR
+CN57-3
+TAB
+REC
+2
+80
+-
+SSD2
+2
+80
+B
+J24
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+180
+-
+VOICE+
+1
+180
+G-W
+CN46-1
+2
+181
+-
+VOICE1
+2
+181
+G-Y
+CN46-2
+mm
+3
+182
+-
+VOICE2
+3
+182
+CN55
+BAR
+G-B
+CN46-3
+4
+183
+-
+VOICE3
+4
+183
+BR-W
+CN46-4
+2)(1)
+1)(2)
+5
+184
+-
+VOICE4
+5
+184
+BR-R
+CN46-5
+TAB
+REC
+6
+6
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+89
+-
+STM
+1
+89
+W-R
+CN102-13
+2
+88
+-
+STM
+2
+88
+Y-G
+CN102-12
+2)(1
+CN49
+1
+2
+VAL
+CN56
+2
+1
+1
+2
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+43
+-
++48V
+I
+43
+B-Y
+CN47-1
+NO
+P
+C
+J
+NO
+P
+C
+J
+2
+N1
+-
+GND
+2
+N1
+W-B
+CN47-2
+1
+85
+-
+SSP
+I
+85
+W-G
+CN58-1
+2
+84
+-
+SSP
+2
+84
+B-R
+CN58-2
+19-13
+1
+4Y3
+CN57
+CN64
+1
+3Y4
+32
+23
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+NO
+P
+P
+C
+C
+J
+J
+NO
+P
+C
+J
+I
+81
+G
+CN53-1
+I
+1
+81
+95
+W-L
+CN102-6
+L
+CN65-1
+I
+95
+L
+CN60-3
+2
+2
+83
+BR
+CN102-19
+(CN66-2)
+3
+82
+BR
+CN54-1
+3
+82
+2
+B-W
+R
+W
+CN102-7
+CN65-2
+2 R W
+AC plug
+4
+80
+B
+CN53-2
+4
+80
+G-R
+CN102-18
+3SR
+CN65-3
+3 S
+R
+AC plug
+CN58
+2)1
+1
+1 2
+CN65
+1
+32
+23
+TAB
+REC
+NO
+P
+TAB
+REC
+C
+J
+NO
+P
+C
+J
+1
+85
+W-G
+NO
+CN56-1
+P
+C
+I
+85
+J
+W-G
+NO
+CN102-9
+P
+C
+J
+2
+84
+B-R
+1
+CN56-2
+95
+L
+DISP
+2
+84
+B-R
+1
+CN102-8
+95
+L
+CN64-1
+2RW
+DISP
+2RW
+CN64-2
+3SR
+Battery capacity 48V 330 ~ 565 AH
+DISP
+3SR
+CN64-3
+CN60
+112
+Only for battery capacity: 48V 330 1 565 AH
+TAB
+REC
+C
+1210
+CN66
+J
+NO
+P
+J
+12
+ISR
+AC plug
+1 S R
+MSCH
+TAB
+REC
+2TB
+AC plug
+2T
+B
+MSCH
+NP
+J
+NO P C
+J
+Battery capacity 48V 600 ~ 845 AH, 80V
+1RW
+MSCH
+1R
+W
+AC plug
+370 - 470 ~ AH
+295L
+THR
+29
+L
+CN64-1
+02
+20
+2T1
+CN68
+34
+1T2
+43
+TAB
+REC
+TAB
+CN60
+NO
+P
+C
+J
+REC
+NO
+P
+C
+J
+1
+139
+P
+STT
+I
+139
+NO
+P
+CN40-3
+P
+C
+J
+NO
+P
+C
+J
+2
+14
+BR
+STT
+2
+14
+BR
+1
+T
+J5
+B
+MSCH
+T
+B
+AC plug
+2
+R
+W
+MSCH
+2
+R
+W
+AC plug
+3
+95
+L
+THR
+3
+95
+L
+CN64-1
+4
+S
+R
+MSCH
+4SR
+AC plug
+4321
+1234
+8765
+5678
+02
+20
+CN69
+34
+43
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+123
+0
+Timer terminal
+1
+123
+0
+CN70-27
+CN61
+2
+122
+Y
+TAB
+Timer terminal
+2
+122
+Y
+CN70-26
+REC
+3
+121
+G
+Timer terminal
+3
+121
+G
+CN70-25
+NO
+P
+C
+J
+NO
+P
+C
+J
+4
+124
+Y-R
+Timer terminal
+4
+124
+Y-R
+CN70-8
+1
+U
+W
+THR
+IU
+-
+TRANS
+5
+125
+Y-B
+Timer terminal
+5
+125
+Y-B
+CN70-9
+2
+y
+R
+THR
+2
+V
+-
+TRANS
+6
+126
+Y-G
+Timer terminal
+6
+126
+Y-G
+CN70-10
+3
+3
+7
+127
+Y-W
+Timer terminal
+7
+127
+Y-W
+CN70-11
+4
+IWB
+THR
+4 W -
+TRANS
+8
+14
+BR
+Timer terminal
+8
+14
+BR
+J22
+19-14
+REC
+2
+1
+CN88
+1
+4
+5
+7
+8
+9
+10
+11
+12
+13
+14
+1
+2
+15
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+20
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+TAB
+1
+3
+R
+SOL +
+1
+3
+W-G
+CN103-1
+2
+4
+B
+SOL
+2
+4
+GR
+CN103-2
+14
+13
+12
+11
+10
+9
+8
+7
+5
+4
+1
+30
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+15
+CN70
+1
+2
+REC
+2
+1
+TAB
+CN89
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+43
+-
+48V
+1
+43
+B-Y
+CN40-2
+TAB
+REC
+4
+137
+-
+SL/L+
+4
+137
+R-G
+CN1-6
+NO
+P
+C
+J
+NO
+P
+C
+J
+5
+138
+-
+SL/L-
+5
+138
+W-L
+CN1-5
+1
+5
+R
+SOL
+1
+5
+B-R
+CN103-5
+7
+180
+-
+AVD(+)
+7
+180
+G-W
+CN45-1
+2
+6
+B
+SOL
+2
+6
+R-L
+CN103-6
+8
+124
+-
+CHG LED1
+8
+124
+Y-R
+CN69-4
+9
+125
+-
+CHG LED2
+9
+125
+Y-B
+CN69-5
+10
+126
+-
+CHG LED3
+10
+126
+Y-G
+CN69-6
+11
+127
+-
+CHG LED4
+11
+127
+Y-W
+CN69-7
+1) When the lifting height is 2,000 or more. excluding 2) and 3) below
+[Note: Nos. 1. 2 and 6 on the TAB side are unconnected for FV2000.]
+12
+182
+-
+AVD2
+12
+182
+G-B
+CN45-3
+13
+181
+-
+AVD1
+13
+181
+G-Y
+CN45-2
+D15V
+4321
+CN90
+14
+16
+-
+14
+16
+R
+CN1-2
+1
+2
+3
+4
+15
+N1
+-
+N1
+15
+N1
+W-B
+CN40-1
+8065
+5
+6
+7
+19
+139
+-
+STT
+19
+139
+P
+CN40-3
+TAB
+REC
+20
+140
+-
+SLL
+20
+140
+B
+CN40-4
+NO
+P
+C
+J
+NO
+P
+C
+J
+21
+142
+-
+SDTMA
+21
+142
+R-B
+CN1-8
+I
+91
+L-B
+CN92-3
+I
+91
+GR
+CN101-20
+22
+141
+-
+SMTDA
+22
+141
+W-R
+CN1-3
+2
+51
+BR-W
+CN92-1
+2
+51
+R-L
+CN101-26
+23
+144
+-
+SMTDK
+23
+144
+G-R
+CN1-7
+3
+59
+G-Y
+CN91-2
+3
+59
+Y-R
+CN102-5
+24
+143
+-
+SDTMK
+24
+143
+R-Y
+CN1-4
+4
+58
+G
+CN91-3
+4
+58
+G-B
+CN102-17
+25
+121
+-
+CHG SW3
+25
+121
+0
+CN69-1
+5
+92
+5
+92
+R-B
+CN101-21
+26
+122
+-
+CHG SW2
+26
+122
+Y
+CN69-2
+6
+90
+L
+CN92-2
+6
+90
+0
+CN101-19
+27
+123
+-
+CHG SW1
+27
+123
+G
+CN69-3
+7
+16
+7
+16
+R
+J47
+28
+183
+-
+AVD3
+28
+183
+BR-W
+CN45-4
+8
+51
+BR
+CN91-1
+8
+51
+R-W
+CN102-22
+29
+184
+-
+AVD4
+29
+184
+BR-R
+CN45-5
+30
+14
+-
+GNDD
+30
+14
+BR
+CN1-1
+2) then the lifting height is 4500 or more for Yor SV rast vehicles with single tires for domestic market
+4321
+1
+2
+3
+4
+8065
+CN90
+5
+6
+7
+2
+1
+1
+2
+TAB
+REC
+CN85
+NO
+P
+C
+J
+NO
+P
+C
+J
+TAB
+REC
+1
+91
+L-B
+CN93-2
+I
+91
+GR
+CN101-20
+NO
+P
+C
+J
+NO
+P
+C
+J
+2
+51
+BR-W
+CN92-1
+2
+51
+R-L
+CN101-26
+1
+70
+-
+SW TX
+1
+70
+BR
+CN101-18
+3
+59
+G-Y
+CN91-2
+3
+59
+Y-R
+CN102-5
+2
+51
+-
+SW TX
+2
+51
+R-L
+J1
+4
+58
+G
+CN91-3
+4
+58
+G-B
+CN102-17
+5
+92
+L-W
+CN93-3
+5
+92
+R-B
+CN101-21
+CN86
+320
+123
+6
+90
+L
+CN92-2
+6
+90
+0
+CN101-19
+7
+16
+7
+16
+R
+J47
+TAB
+REC
+8
+51
+BR
+CN91-1
+8
+51
+R-W
+CN102-22
+NO
+P
+C
+J
+NO
+P
+C
+J.
+3) then the lifting height is 4500 or more for FSV mast vehicles with single tires for domestic market
+1
+57
+-
+VRAT
+1
+57
+G-W
+CN102-16
+2
+56
+-
+VRAT
+2
+56
+G
+CN102-4
+1
+2
+3
+4
+3
+51
+-
+VRAT
+3
+51
+R-W
+J2
+8065
+CN90
+5
+6
+7
+8
+TAB
+REC
+21
+CN87
+NO
+P
+C
+J
+NO
+P
+C
+J
+4)(3)
+34
+1
+91
+L-B
+CN99-2
+1
+91
+GR
+CN101-20
+2
+51
+BR-W
+CN92-1
+2
+51
+R-L
+CN101-26
+3
+59
+G-Y
+CN91-2
+3
+59
+Y-R
+CN102-5
+TAB
+REC
+4
+58
+G
+CN91-3
+4
+58
+G-B
+CN102-17
+NO
+P
+C
+J
+NO
+P
+C
+J
+5
+92
+L-W
+CN99-3
+5
+92
+R-B
+CN101-21
+I
+61
+G-R
+LSTF
+I
+61
+G-R
+CN101-16
+6
+90
+L
+CN92-2
+6
+90
+0
+CN101-19
+2
+51
+R-L
+LS-
+2
+51
+R-L
+J1
+7
+16
+B-R
+CN99-1
+7
+16
+R
+J47
+3
+62
+L
+LSTR
+3
+62
+L
+CN101-17
+8
+51
+BR
+CN91-1
+8
+51
+R-W
+CN102-22
+4
+51
+R-L
+LS-
+4
+51
+R-L
+J1
+19-15
+CN91
+320
+D23
+CN95
+(2)(1)
+2
+TAB
+REC
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+51
+-
+SP
+1
+51
+BR
+CN90-8
+I
+327
+-
+SOL
+1
+327
+L-8
+CN94-4
+2
+59
+-
+SP
+2
+59
+G-Y
+CN90-3
+2
+328
+-
+SOL
+2
+328
+W-R
+CN94-5
+3
+58
+-
+SP,
+3
+58
+G
+CN90-4
+CN96
+3211
+1
+2
+3
+321
+CN92
+123
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+TAB
+J
+REC
+I
+320
+-
+VRAM
+1
+320
+BR
+J25
+NO
+P
+C
+J
+NO
+P
+C
+J
+2
+319
+-
+VRAM
+2
+319
+L-W
+CN94-7
+I
+51
+BR-W
+CN90-2
+1
+51
+-
+SWMH1
+3
+318
+-
+VRAM
+3
+318
+G
+CN94-6
+2
+90
+L
+CN90-6
+2
+90
+-
+SWMH1
+3
+91
+L-8
+CN90-1
+3
+91
+-
+SWMH1
+A
+A
+When the lifting height is 4500 or more for
+321
+CN97
+1
+2
+3
+105
+L-R
+CN93-1
+V or SV mast vehicles with single tires for
+domestic market
+TAB
+REC
+When the lifting height is 4500 or more for
+3
+105
+L-R
+CN99-4
+FSV mast vehicles with single tires for
+NO
+P
+C
+J
+NO
+P
+C
+J
+domestic market
+I
+316
+-
+VRAH
+1
+316
+P
+CN94-1
+2
+317
+-
+VRAH
+2
+317
+G-W
+CN94-2
+When the lifting height is 4500 or sora for y or SV nest vehicles with single tires for domestic market
+3
+320
+-
+VRAH
+3
+320
+W-B
+CN94-3
+321
+CN93
+1 23
+TAB
+REC
+CN98
+2)
+1 2
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+105
+L-R
+CN92-3
+1
+105
+-
+SWMH2
+TAB
+REC
+2
+91
+L-B
+CN90-1
+2
+91
+-
+SWMH2
+NO
+P
+C
+J
+NO
+P
+C
+J
+3
+92
+L-W
+CN90-5
+3
+92
+-
+SWMH2
+I
+329
+B-Y
+CN148-2
+1
+329
+-
+SOL ST
+2
+330
+GR
+CN148-5
+2
+330
+-
+SOL
+ST
+CN94
+(1)
+345
+When the lifting height is 4500 or more for FSV mast vehicles with single tires for
+617
+domestic market
+TAB
+REC
+543211
+1
+2
+3
+4
+5
+I
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+316
+B-Y
+CN142-11
+I
+316
+P
+CN97-1
+TAB
+CN99
+REC
+2
+317
+GR
+CN142-3
+2
+317
+G-W
+CN97-2
+NO
+P
+C
+J
+NO
+P
+C
+J
+3
+320
+W-R
+CN142-8
+3
+320
+W-B
+CN97-3
+1
+16
+-
+SS(IG)
+I
+16
+B-R
+CN90-7
+4
+327
+G-L
+CN148-1
+4
+327
+L-B
+CN95-1
+2
+91
+-
+SS (N/C)
+2
+91
+L-B
+CN90-1
+5
+328
+R-L
+CN148-6
+5
+328
+W-R
+CN95-2
+3
+92
+-
+SS (N/0)
+3
+92
+L-W
+CN90-5
+6
+318
+G-W
+CN142-10
+6
+318
+G
+CN96-3
+4
+105
+-
+SS (L)
+4
+105
+L-R
+CN92-3
+7
+319
+Y-G
+CN142-2
+7
+319
+L-W
+CN96-2
+5
+51
+-
+SS (E)
+5
+51
+BR-W
+J31
+E-INO
+H-M
+171
+91
+-
+11
+91
+8-INO
+8-d
+91
+-
+21
+91
+D-INO
+A-d
+21
+$1
+XWIGS
+-
+A
+11
+L-INO
+-
+El
+-
+#1
+El
+1-INO
+de
+11
+21
+GOND
+-
+11
+21
+11
+11
+Z-INO
+d
+91
+01
+ASIC
+-
+91
+01
+6
+6
+9-1
+21
+8
+SWAN
+-
+91
+8
+E-6ZNO
+l
+1
+L
+188A
+-
+IV
+L
+1-68NO
+7-8
+9
+9
+-170S
+-
+9
+9
+Z-68NO
+-8
+S
+9
++170S
+-
+S
+S
+1-21NG
+A-8
+EV
+&
+AXBA
+-
+Et
+&
+90
+l
+It
+E
+9898
+-
+It
+E
+1-88NO
+89
+&
+2
+-770S
+-
+to
+Z
+Z-88NO
+9-M
+E
+I
++770S
+-
+E
+I
+7-8
+93
+-OSS
+-
+PE
+r
+I
+d
+ON
+r
+0
+d
+ON
+8-M
+EE
++OSS
+-
+EE
+AA
+1-LINO
+M-9
+09
+ZE
+17S7
+-
+09
+ZE
+1E
+91
+91
+to
+El
+21
+1E
+21
+EL
+to
+91
+9
+08
+0€
+01
+6
+8
+86011
+67
+67
+L
+9
+S
+99
+L
+87
+87
+182 I
+12ED
+LZ
+LT
+EOINO
+Z-06NO
+7-d
+IS
+97
+-S7
+19
+9%
+92
+97
+42
+92
+27
+E
+zr
+-
+19
+22
+-10d
+-
+IS
+22
+22
+22
+12
+12
+S-06NO
+8-d
+26
+12
+Z-ZHW
+-
+26
+12
+02
+02
+1-06NO
+45
+16
+02
+1-ZHW
+-
+16
+02
+Z-LSNO
+as
+E8
+61
+-ass
+-
+E8
+61
+9-06NO
+0
+06
+61
+IHK
+-
+06
+61
+D-LSNO
+-9
+08
+81
++ass
+-
+08
+81
+1-98NO
+48
+OL
+81
+XIMS
+-
+OL
+81
+V-06NO
+8-9
+89
+Ll
++7ds
+-
+89
+Ll
+E-L8NO
+1
+29
+Ll
+HIST
+-
+29
+Ll
+1-98NO
+M-D
+L9
+91
++110d
+-
+LS
+91
+1-Z8NO
+-9
+19
+91
+LIST
+-
+19
+91
+91
+91
+91
+91
+8-8
+ES
+1
+-
+ES
+11
+91
+11
+1-SSNO
+H-M
+68
+El
+-d1
+-
+68
+El
+11-11-19
+-
+018
+E1
+XWISS
+-
+01€
+El
+Z-SSNO
+9-1
+88
+21
++dl
+-
+88
+21
+l
+60€
+21
+AWISS
+-
+60€
+21
+L-ZSNO
+di
+L8
+11
+-01
+-
+L8
+11
+E-LING
+8-9
+E9
+11
+LIVES
+-
+E9
+11
+Z-ZSNO
+1-8
+98
+01
++01
+-
+98
+01
+A-9
+80€
+01
+XSIWS
+-
+80€
+01
+1-89NO
+9-M
+98
+6
+-dss
+-
+98
+6
+9-M
+LOE
+6
+VS1WS
+-
+LOE
+6
+Z-89NO
+V-8
+98
+8
++dSS
+-
+98
+8
+8
+8
+E-LSNO
+M-8
+28
+L
+cass
+-
+28
+L
+L
+L
+L-LSNO
+7-M
+18
+9
+LOSS
+-
+18
+9
+9
+9
+E-06NO
+d-1
+69
+S
+lds
+-
+69
+S
+A-8
+L9
+S
+as
+-
+£9
+9
+Z-98NO
+9
+99
+t
+110d
+-
+99
+D
+Z-SINO
+M-8
+99
+t
+ads7
+-
+99
+t
+E
+E
+Z-9NO
+9-1
+99
+E
+8S7
+-
+99
+E
+1-SEND
+45
+29
+7
+110d
+-
+CS
+to
+-6NO
+9
+9
+Z
+asa
+-
+9
+Z
+1-d
+99
+I
+JAMS
+-
+99
+I
+S-6ND
+M
+St
+I
+usa
+-
+St
+I
+r
+0
+d
+ON
+r
+0
+d
+ON
+r
+0
+d
+ON
+r
+0
+d
+ON
+ALL
+ALL
+22
+17
+07
+6 81
+8161
+02
+17
+22
+DE
+EE
+ZE
+1E
+0€
+67
+87
+LZ
+L7
+87
+AA
+0€
+1E
+ZE
+EE
+78
+L
+LI
+97
+90
+96
+EZ
+ZZ
+17
+02
+61
+81
+L
+Ll
+81
+6L
+0Z
+17
+22
+EZ
+26
+92
+97
+11
+01
+6
+84
+18
+6
+01
+1
+9191
+71
+El
+21
+11
+1121
+11
+91 91
+957821
+128059
+01
+6
+8
+/
+99
+t
+E
+7
+I
+2
+E
+99
+186
+01
+COINO
+LOINO
+91-61
+19-17
+CN141
+8
+6
+5
+4
+3
+2
+1
+1
+2
+3
+4
+5
+6
+7
+8
+8
+6
+15
+4
+3
+12
+11
+0
+9
+9
+10
+12
+13
+14
+15
+6
+17
+18
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+1
+1
+2
+2
+3
+309
+-
+SSTMA
+3
+309
+Y
+CN101-12
+4
+307
+-
+SMTSA
+4
+307
+W-G
+CN101-9
+5
+5
+324
+Y-B
+CN20-2
+6
+312
+-
+STS1
+6
+312
+G-W
+CN19-4
+7
+313
+-
+STS2
+7
+313
+R-Y
+CN19-5
+8
+314
+-
+STSC
+8
+314
+L
+CN19-6
+9
+9
+10
+10
+11
+310
+-
+SSTMK
+11
+310
+Y-R
+CN101-1 13
+12
+308
+-
+SMTSK
+12
+308
+G-Y
+CN101-10
+13
+138
+-
+SL/L-
+13
+138
+W-L
+CN1-5
+14
+137
+-
+SL/L+
+14
+137
+R-G
+CN1-6
+15
+15
+16
+315
+-
+STS-
+16
+315
+BR
+CN19-3
+17
+311
+-
+STS+
+17
+311
+W-R
+CN19-1
+18
+18
+CN142
+5
+4
+3
+2
+1
+1
+2
+3
+45
+2
+0
+9
+8
+7
+6
+6
+7
+8
+9
+[10
+12
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+I
+2
+319
+-
+POTS
+2
+319
+Y-G
+CN94-7
+3
+317
+-
+POTH
+3
+317
+GR
+CN94-2
+4
+324
+-
+SSN+
+4
+324
+W-B
+CN101-33
+5
+325
+-
+SSN-
+5
+325
+R-L
+CN101-34
+6
+6
+7
+7
+8
+320
+-
+SPOT-
+8
+320
+W-R
+CN94-3
+9
+9
+10
+318
+-
+POTS+
+10
+318
+G-W
+CN94-6
+11
+316
+-
+POTH+
+11
+316
+B-Y
+CN94-1
+12
+12
+CN148
+3
+2
+1
+2
+3
+8
+7
+6
+5
+4
+456/8
+TAB
+REC
+NO
+P
+C
+J
+NO
+P
+C
+J
+I
+327
+-
+SOLS+
+1
+327
+G
+CN94-4
+2
+329
+-
+SOLST+
+2
+329
+B-Y
+CN98-1
+3
+44
+-
+VBMB
+3
+44
+Y-G
+CN103-8
+4
+4
+5
+330
+-
+SOLST-
+5
+330
+GR
+CN98-2
+6
+328
+-
+SOLS-
+6
+328
+R-L
+CN94-5
+7
+N1
+-
+N1
+7
+N1
+W-B
+J8
+8
+8
+19-18
+CN101-26
+CN8-5
+CN38-2
+CN87-4
+CN31-1-4
+CN42-2
+CN9-1
+CN87-2
+J11
+CN17-4
+J41
+CN34-2
+J1
+CN31-2
+CN6-1
+CN85-2
+CN34-1-4
+CN11-2
+CN15-1
+CN38-6
+CN90-2
+(111,R-L)
+(109, G-Y)
+(51, R-L)
+CN38-3
+CN8-4
+CN31-1-5
+CN102-22
+J42
+CN90-8
+J2
+CN25-3
+J12
+CN13-4
+CN34-3
+CN34-1-5
+CN86-3
+CN38-5
+(103, R-W)
+(51.R-W)
+(108, R-Y)
+CN38-4
+CN34-1-1
+CN102-18
+LH
+CN9-3
+J43
+CN34-1
+Surge
+J3
+CN57-4
+CN23-1
+J13
+absorber
+L L-R
+CN31-1
+(80,G-R)
+CN31-1-1
+CN38-3
+(104, G-R)
+CN102-19
+(103,R-W)
+CN38-5
+J44
+CN34-5
+Surge
+J4
+CN57-2
+CN9-2
+absorber
+(83. BR)
+CN34-1-6
+J14
+CN24-1
+(108, R-Y)
+CN103-12
+CN38-1
+CN38-6
+(120. Y-R)
+J45
+CN31-3
+CN68-2
+J5
+CN1-1
+CN13-2
+CN31-1-6
+(14,BR)
+(109, G-Y)
+CN103-3
+CN103-7
+J15
+CN29-4
+CN38-1
+Lie
+Lg
+J6
+CN29-3
+CN17-2
+L L-R
+(102,R-G)
+CN22-4
+CN8-1
+CN31-4
+J46
+CN34-6
+(41. Y)
+CN40-2
+CN31-1-2
+CN34-1-3
+CN31-1-3
+CN34-1-2
+CN103-4
+CN9-6
+J21
+CN45-6
+L.
+(N1, W-B)
+J7
+CN40-2
+CN70-1
+(43, B-Y)
+CN29-6
+CN12-1
+CN1-2
+(43. B-Y)
+CN70-29
+J47
+CN90-7
+J22
+CN69-8
+CN103-10
+(16.R)
+CN1-1
+CN40-1
+CN16-2
+(14,BR)
+CN38-8
+CN148-7
+CN57-4
+CN23-2
+J8
+H
+CN24-2
+CN17-3
+J24
+CN54-2
+CN13-1
+CN17-1
+CN102-18
+N1 terminal
+(80,B)
+(N1,W-B)
+CN94-3
+CN5-1
+J25
+CN96-1
+J9
+CN29-1
+CN22-1
+CN97-3
+(101,R)
+(320, W-B)
+CN13-5
+CN90-2
+CN17-5
+J10
+CN29-2
+J31
+CN99-5
+CN38-4
+CN92-1
+(104, G-R)
+(51, BR-W)
+19-19
+CPU BOARD CONNECTOR DRAWING
+CN101
+CN102
+CN103
+CN104
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+6
+5
+4
+3
+2
+1
+4
+3
+2
+8
+7
+6
+5
+4
+3
+2
+1
+16/15
+14/13
+1211
+11/10
+9
+8
+7
+7
+6
+5
+13/12
+11
+10
+9
+2625
+24
+23
+22
+2120
+19
+1817
+15
+12
+9
+8
+18
+17
+16
+15
+14
+34/33
+3231
+3029
+2827
+222120
+19/18
+16
+15
+13/12
+28272625
+242322
+CN101
+CN102
+CN103
+CN104
+NO
+P
+J
+NO
+P
+J
+NO
+P
+J
+NO
+P
+J
+1
+45
+DSF
+1
+64
+SWAC
+1
+3
+SOLL+
+1
+N2
+N2C
+2
+46
+DSR
+2
+52
+POTA
+2
+4
+SOLL-
+2
+54
+CSBATT
+3
+65
+LSB
+3
+AOPT
+3
+41
+B48V
+3
+4
+66
+LSPB
+4
+56
+POTT
+4
+43
+VBKY
+4
+18
+B80Y
+5
+67
+LSD
+5
+59
+SPL
+5
+5
+SOLT+
+5
+75
+CSD+
+6
+8
+81
+SSD1
+6
+6
+SOLT-
+6
+75
+CSP+
+7
+7
+82
+SSD2
+7
+4.1
+VBBT
+7
+71
+CSDA
+8
+8
+84
+SSP+
+8
+44
+VBMB
+8
+72
+CSDB
+9
+307
+SNTSA
+9
+85
+SSP-
+9
+9
+13
+C20V
+10
+308
+SMTSK
+10
+86
+TD+
+10
+16
+DISV
+10
+N2
+N2
+11
+63
+LSATI
+11
+87
+TD-
+11
+11
+2
+MB-
+12
+309
+SSTMA
+12
+88
+TP+
+12
+14
+GNDD
+12
+P2
+VBP2
+13
+310
+SSTMK
+13
+89
+TP-
+13
+144
+SMTDK
+13
+1
+MB+
+14
+93
+M15V
+14
+53
+POTA+
+14
+143
+SDTMK
+14
+44
+VBMB
+15
+146
+B1BC
+15
+54
+POTL+
+15
+142
+SDTMA
+15
+41
+B48V
+16
+61
+LSTF
+16
+57
+POTT+
+16
+141
+SMTDA
+16
+16
+D15V
+17
+62
+LSTR
+17
+58
+SPL+
+17
+15
+C15V
+18
+70
+SWTK
+18
+80
+SSD+
+18
+73
+CSPA
+19
+90
+MHI
+19
+83
+SSD-
+19
+74
+20
+CSPB
+91
+MH2-1
+20
+20
+78
+THCD
+21
+92
+MH2-2
+21
+21
+7.7
+THC+
+22
+69
+LSAT2
+22
+51
+POT-
+22
+44
+23
+VBMB
+23
+14
+GNDD
+24
+LSOPT2
+24
+14
+GNDC
+25
+145
+B1BD
+25
+79
+THCP
+26
+51
+LS-
+26
+27
+OPTO
+27
+76
+CSD-
+28
+28
+76
+CSP-
+29
+30
+31
+32
+60
+LSL
+33
+34
+CN105
+CN106
+CN107
+1413121110987654321
+10987654321
+CN105
+CN106
+CN107
+NO
+P
+J
+NO
+P
+J
+NO
+P
+J
+1
+38
+FAN+
+1
+33
+IMPU+
+1
+26
+TMDU+
+2
+38
+FAN+
+2
+27
+IMPAU-
+2
+20
+TMDAU-
+3
+36
+FANCD
+3
+28
+TMPBU-
+3
+21
+TMDBU-
+4
+37
+FANCP
+4
+29
+TMPCU-
+4
+22
+TMDCU-
+5
+-
+5
+30
+IMPAD-
+5
+23
+TMDAD-
+6
+39
+DDC
+6
+31
+TMPBD-
+6
+24
+TMDBD-
+7
+40
+PDC
+7
+32
+TMPCD-
+7
+25
+TMDCD-
+8
+94
+CKFAND+
+8
+33
+TMPD+
+8
+26
+TMDD+
+9
+97
+CKFAND-
+9
+35
+CKPV
+9
+34
+CKDV
+10
+98
+CKFANP+
+10
+-
+10
+11
+99
+CKFANP-
+11
+-
+12
+-
+13
+-
+14
+100
+CHGFAN
+19-20
+DC/MD BOARD CONNECTOR DRAWING
+CN108
+CN109
+CN110
+1110987654321
+10987654321
+1413121110987654321
+CN108
+CN109
+CN110
+NO
+P
+J
+NO
+P
+J
+NO
+P
+J
+1
+100
+CHGFAN
+1
+33
+IMPU+
+1
+26
+TMDU+
+2
+CKFANA-
+2
+27
+TMPAU-
+2
+20
+TMDAU-
+3
+---
+CKFANA+
+3
+28
+TMPBU-
+3
+21
+TMDBU-
+4
+99
+CKFANP-
+4
+29
+TMPCU-
+4
+22
+TMDCU-
+5
+98
+CKFANP+
+5
+30
+TMPAD-
+5
+23
+TMDAD-
+6
+97
+CKFAND-
+6
+31
+TMPBD-
+6
+24
+TMDBD-
+7
+94
+CKFAND+
+7
+32
+TMPCD-
+7
+25
+TMDCD-
+8
+40
+PDC
+8
+33
+TMPD+
+8
+26
+TMDD+
+9
+39
+DDC
+9
+35
+CKPV
+9
+34
+CKDV
+10
+FANCA
+10
+10
+11
+37
+FANCP
+11
+12
+36
+FANCD
+13
+38
+FAN+
+14
+38
+FAN+
+CN111
+CN112
+CN113
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+8765
+4 3 2 1
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+18/17/16
+15/14/13/12
+11 10 9
+CN111
+CN112
+CN113
+NO
+P
+J
+NO
+P
+J
+NO
+P
+J
+1
+150
+TMDAUI+
+1
+162
+IMPAU1+
+I
+41
+B48V
+2
+152
+TMDADI+
+2
+164
+IMPAD1+
+2
+44
+VBMB
+3
+154
+TMDBU1+
+3
+166
+IMPBUI+
+3
+Q601G
+4
+151
+TMDAU-G
+4
+163
+TMPAU-G
+4
+7
+FAND+
+5
+153
+TMDAD-G
+5
+165
+IMPAD-G
+5
+8
+FAND-
+6
+155
+TMDBU-G
+6
+167
+TMPBU-G
+6
+9
+FANP+
+7
+157
+TMDBD-G
+7
+169
+TMPBD-G
+7
+10
+FANP-
+8
+159
+TMDCU-G
+8
+171
+IMPCU-G
+8
+Q701G
+9
+161
+TMDCD-G
+9
+173
+TMPCD-G
+9
+FANA+
+10
+10
+---
+10
+FANA-
+11
+156
+TMDBD1+
+11
+168
+TMPBD1+
+11
+Q501G
+12
+158
+TMDCUI+
+12
+170
+IMPCUI+
+12
+14
+GNDD
+13
+160
+TMDCD1+
+13
+172
+IMPCD1+
+13
+14
+GNDC
+14
+P3
+TMDAU-SD
+14
+P12
+TMPAU-SD
+14
+16
+D24V
+15
+N2
+TMDAD-SD
+15
+N2
+IMPAD-SD
+15
+15
+C24V
+16
+P5
+TMDBU-SD
+16
+P14
+TMPBU-SD
+16
+13
+C20V
+17
+150
+TMDAU2+
+17
+162
+TMPAU2+
+17
+N2
+N2
+18
+152
+TMDAD2+
+18
+184
+IMPAD2+
+18
+N2
+N2
+19
+154
+TMDBU2+
+19
+166
+TMPBU2+
+20
+156
+TMDBD2+
+20
+168
+TMPBD2+
+21
+158
+TMDCU2+
+21
+170
+TMPCU2+
+22
+160
+TMDCD2+
+22
+172
+TMPCD2+
+23
+23
+24
+N2
+TMDBD-SD
+24
+N2
+TMPBD-SD
+25
+P7
+TMDCU-SD
+25
+P16
+TMPCU-SD
+26
+N2
+TMDCD-SD
+26
+N2
+TMPCD-SD
+19-21
+SCPU BOARD CONNECTOR DRAWING
+CN140
+CN141
+CN142
+8765
+432 1
+54
+321
+1
+87654321
+1817161514131211109
+1211109
+876
+CN140
+CN141
+CN142
+P
+J
+P
+J
+P
+J
+1
+C5V
+1
+SSTXA
+1
+POTOPT
+2
+GNDC
+2
+SXTSA
+2
+319
+POTS
+3
+FTXD
+3
+309
+SSTMA
+3
+317
+POTH
+4
+VPP
+4
+307
+SMTSA
+4
+5
+MD1
+5
+324
+SS+
+5
+---
+6
+FRES
+6
+312
+STS1
+6
+7
+FRXD
+7
+313
+STS2
+7
+POTOPT-
+8
+SELR
+8
+314
+STSC
+8
+320
+SPOT-
+9
+SSTXK
+9
+POTOPT+
+10
+SXTSK
+10
+318
+POTS+
+11
+310
+SSTMK
+11
+316
+POTH+
+12
+308
+SMTSK
+12
+---
+13
+138
+SL/L-
+-
+14
+137
+SL/L+
+15
+325
+SS-
+16
+315
+STS-
+17
+311
+STS+
+18
+CN144
+CN145
+CN146
+321
+321
+1413121110987654321
+CN144
+CN145
+CN146
+P
+J
+P
+J
+P
+J
+1
+321
+SYR+
+1
+340
+TMPSG
+1
+2
+323
+SYR-
+2
+P24
+SH+
+2
+44
+VBMB
+3
+322
+SYR
+3
+N1
+SH-
+3
+350
+PS20V
+4
+351
+GNDPS
+5
+352
+SC15V
+6
+353
+GNDSC
+7
+331
+DRSOL+
+8
+332
+DRSOL-
+9
+333
+CKSOLS
+10
+334
+CKSOLST
+11
+335
+SGSOLS
+12
+336
+SGSOLST
+13
+337
+RESOL
+14
+19-22
+DC/SD BOARD CONNECTOR DRAWING
+CN147
+1413121110987654321
+CN147
+P
+J
+1
+2
+44
+VBMB
+3
+350
+PS20V
+4
+351
+GNDPS
+5
+352
+SC15V
+6
+353
+GNDSC
+7
+331
+DRSOL+
+8
+332
+DRSOL
+9
+333
+CKSOLS
+10
+334
+CKSOLST
+11
+335
+SGSOLS
+12
+336
+SGSOLST
+13
+337
+RESOL
+14
+CKT-G
+CN148
+3
+21
+87654
+CN148
+P
+J
+1
+327
+SOLS
+2
+329
+SOLST-
+3
+44
+VBMB
+4
+CK20V
+5
+330
+SOLST -
+6
+328
+SOLS -
+7
+N1
+N1
+8
+CK15V
+
+Error Code A4: Acceleration Switch Abnormality
+Related portion only
+CN25
+CN26
+CN102-1 (64,SWAC)
+7/24)
+CPU board
+Accelerator potentiometer
+CN102-22 1,POT-)
+cpu E
+Estimated causes
+12127 THE 81/20/
+1
+Accelerator pedal depressed upon battery plug ON
+2
+Acceleration potentiometer adjustment defect THE
+3
+Harness short circuit
+767
+on 7WZ
+Accelerator pedal depressed upon battery
+Yes 09/
+plug ON.
+Normal My
+No oble
+CH2532177LEL
+Disconnect the acceleration potentiometer
+sub-harness CN25.
+MG121 Enz on 02 dA Aay
+Battery plug ON again.
+A4012172 LUELLLE?
+onle
+No
+Is A4 error displayed?
+Acceleration potentiometer adjustment
+Yes 09/
+Inspection 1 KILL
+NG(TL24)
+42/8601
+NG (short)
+Disconnect CN102 and check if CN 1102-1 is
+Reapir of shorted portion
+shorted with CN102-22.
+OK (open)
+(446)
+CN1023 7/3742 (N10) -101 CN 102-22 elitol
+CPU board defect
+CPU E 12/2
+5-23
+WILL
+Inspection CN102 short 1: circuit check 04/02/2012 OFF, CHPO2 (2/1) / 321
+Battery plug OFF, CN102 connector disconnection
+23222
+Measurement terminals
+CN102-1 (64) CN102-22 (51) (REC)
+Tester range WILL 829
+S2X1
+Standard
+7/3
+Open (00 S2)
+CN102
+74186
+OK (open)
+CPU board defect CPUEL 122
+NG (short)
+Shorted
+portion repair
+the
+5-24
+LEGE 21/2L AQZ DIZZAL
+A6-1, A6-3, A6-5, A6-6: Material Handling limit Switch Abnormality
+Related portion
+CN11
+CN101-32 (60,LSL)
+Lift switch
+CN101-11 (63,LSAT1)
+Attachment No. 1 switch
+CN101-22 (69,LSAT2)
+CPU board
+Attachment No. 2 switch
+CN101-26 (51,LS-)
+CPUEL
+123451 No. 24012)
+CN101-16 (61,LSTF)
+Forward tilt switch
+CN101-17 (62,LSTR)
+Backward tilt switch
+CN67
+22/202
+Estimated causes
+ENGY on (04/19/2012)
+1
+Lift or tilt (attachment) switch ON upon battery plug ON
+2
+Lift or tilt (attachment) switch adjustment error
+3
+Harness short circuit
+VER En2 on 1804019 with
+A6t. The 6 01 MELLION (N)
+Lift or tilt (attachment) lever laid down upon battery
+Yes
+*A6-1, -5 or -6 is displayed: CN1
+on
+Normal
+plug ON
+Abby
+A6-3 is displayed: CN67
+No otle
+A6-3 CH67
+Disconnect material handling switch sub-harness CN11
+base or CH612
+and CN67, and set the battery plug to ON again.
+104E-12/
+E222
+Mr 0101 th HEALTH
+A691217 WEHLLE?
+okle
+21/26/2917 323
+No
+Is A6 error displayed?
+Limit switch adjustment
+Yes 09
+Inspection
+1 334 that 2121301 BY
+NG(TELL)
+Check if the following terminals are shorted:
+NG (short)
+Check CN 1101-32 (60), CN101-11 (63),
+Reapir of shorted portion
+CN101-22 (69), CN101-16 (61),
+Thankle
+CN101-17 (62) - CN101-26 (51) for short circuit.
+OK (open) (2410)
+CPU board defect
+CNUE
+5-25
+Inspection 1:
+33/
+CN101 short circuit check CN101 The 2/2 Rtd
+Battery plug OFF 01/11/2012 OFF
+1
+CN101-32 (60) - CN101-26 (51)
+2 CN101-11 (63) - CN101-26 (51)
+Measurement terminals
+3
+CN101-22 (69) - CN101-26 (51)
+4
+CN101-16 (61) - CN101-26 (51)
+5
+CN101-17 (62) - CN101-26 (51)
+Tester range KALL 999
+S2 X 1
+Stanard 7/3
+Open (00 52) 7408
+4
+CN101
+2
+CN101
+0987654321
+1615
+1413
+1211
+1
+26252423222120191817
+I
+34333231
+30292827
+2
+million
+1~5 1 3
+5
+9408
+OK (open)
+CPU board defect
+CPUE 122
+NG (shorted)
+Shorted portion repair
+and
+31211 (1228)
+5-26
+
+Error Code CB-1: MB Abnormality (Open)
+Related portion
+F6
+P1
+P3
+CN104-14 (44,VBMB)
+CN104-13 (1,MB+)
+CPU board
+CN104-11 (2,MB-)
+CPUS
+MB contactor coil
+CN134
+MB 11/07/22
+Estimated causes
+1
+Blown off F6 fuse
+F6R1201 287-2019 32/31
+2 MB ON defect
+MB on 22
+3
+Open circuit
+of harness TZX of 74188012
+onoz 244 CTY MB or
+Is the MB ON sound heard at key
+No
+switch ON?
+onle
+Yes on
+2722
+Inspection 1
+NG (00
+F6 Replacement
+Go to A on the next page.
+F6 fuse check
+16 2712
+OK (052)
+Inspection 2
+P3
+NG (0V)
+Zip
+voltage check
+N1
+Inspection 4
+OK
+P1
+1.6km 2541212
+Inspection 3
+voltage check
+0K4BV
+CN104-14 (44)
+NG (0V)
+N1
+voltage check
+NG (0 V)
+OK
+(1- to 2-ton series: approx. 48 V,
+CN104-10 (N2)
+Harness check
+3-ton, J3.5 ton: approx. 80 V)
+OK, : of 48V
+Battery cable defect
+Poor electric
+(1- to 2-ton series: approx. 48 V,
+om
+3-ton, J3.5 ton: approx. 80 V)
+Poor electric connec-
+connection of MB
+tion of copper bar
+contactor
+12/30/2019
+CPU board defect
+3E.T35E:04BOV
+CIVELY
+ONEAT 7110112 you
+22/04/09 12/12/2010
+5-55
+A
+MB Hoto
+Inspection 5
+NG
+Disconnect the connector of MB
+Inspection 7
+(less than 9 V)
+contactor and check voltage
+between connector pins on the CPU
+9V018L
+P3
+not 7KL
+voltage check
+side.
+CN104-11
+01/44
+OK (9 V or more)
+avoir
+OK (9 V
+NG (less than 9 V)
+Inspection 6
+or more)
+NG (00 a )
+quoks
+CPU board defect
+Check resistance of the MB
+Open circuit
+CN= 122
+contactor coil.
+of MB
+contactor
+Harness defect between CN104
+OK (approx. 20 S2
+coil
+and two MB contactor connectors
+04202
+MB contactor defect
+27401 MB
+MR B
+5-56
+THAL
+Inspection 1:
+FREE
+F6 Fuse Check
+Battery plug OFF, removed F6 fuse
+Measurement terminals
+Both ends of F6 fuse
+Tester range 4/201/1269
+sx 1
+Standard 7/E
+on
+0
+TO
+F6
+OK (0 52)
+Go to Inspection 2.
+NG (00 52)
+F6 fuse replacement
+BALL2
+Inspection 2:
+Hotzz
+P2-N1 Voltage Measurement
+Battery plug ON, key switch ON
+01/01/2012 7/69/107
+23113
+Measurement terminals
+P2
++ -N1
+Tester range
+DC 200 V
+1-to 2-ton series: 48 V, 150M A22.04817
+approx.
+Standard 7/3
+3-ton, J3.5 ton: approx. 80 V (battery voltage) 3T2 T3.55
+GB80V
+N1
+5
+P2
+OTH
+OK (battery voltage) Go to Inspection 3.
+NG (0 V)
+Go to Inspection 4.
+31437122
+5-57
+32hL3
+Inspection 3:
+Battery plug ON, key switch ON 34209. 7/09/2011
+CN104-CN104 (N2) Voltage Check
+Measurement terminals
+CN104-14 (44) + - CN104-10 (N2)
+Tester range
+DC 200 V
+Standard
+7/3
+1-to 2-ton series: approx. 48 V, 122 ob4EV
+3-ton, J3.5 ton: approx. 80 V (battery voltage) 3E J3551 okoov
+CN104 +
+87654321
+CN104
+5
+2120191817161514
+2 28272625 242322
++
+OK (battery voltage)
+CPU board defect
+CPV=10
+NG (0 V) Harness defect 27/22
+73KL4
+Inspection 4:
+Hotzld
+P1 N1 Voltage Check 04/18/21 Enlon. 71893101
+-
+Battery plug ON, key switch ON
+72123
+Measurement terminals
+P1 + - N1
+Tester range
+DC 200 V
+Standard
+7/3
+1-to 2-ton series: approx. 48 V, 422.448V
+3-ton, J3.5 ton: approx. 80 V (battery voltage)
+Oh GOV
+N1
+P1-
+II
+144Ek/200
+12/10/06 30)
+OK (battery voltage)
+Poor electrical contact of MB contactor
+NG (O V) Battery cable defect or poor electrical connection of copper bar
+9E 32/04/2019 A) 112
+5-58
+2245
+Inspection 5:
+MB
+(CNB4)2 32/4/11 BYER
+MB Contactor Signal Voltage Check
+Disconnected MB contactor connector (CN134), battery plug ON, key switch ON
+21-28
+Measurement terminals
+CN134-1 (W-R) + - CN134-2 (A-R)
+Tester range
+DC 10 V
+Standard
+7/2
+9V or more 01/65
+69
+Of
+U
+Labe
+33
+D
+CN134
+DRA
+avok
+OK (9V or more)
+Go to Inspection 6.
+NG (less than 9 V)
+Go to Inspection 7. 3/07/2020
+avoted
+Inspection 6:
+MB 7/2/29 Hot HA
+MB Contactor Coil Resistance Check
+Battery plug OFF 01/11/2012 off
+75E CN1344 orga
+2300
+Measurement terminals
+Both terminals of CN 134 (on contactor side)
+Tester range 1/22/1919
+S X 1
+Standard
+7/2
+Approx. 20 0
+0420 sh
+&
+D
+2
+)
+the
+of 2012
+OK (approx. 20 S2
+MB contactor
+defect MB
+NG (oo S2)
+Open circuit of MB contactor coil
+MR 25/27/2019 7403212
+p3ef CH104 120/01 Hot
+5-59
+BLAN
+Inspection 7. Voltage measurement between P3 and CN104
+Measurement terminals
+P3 + - CN104-11
+Tester range
+DC 50 V
+Standard
+7/3
+9 V or more 9V oky
+SST 09240-23400-71
+COURT
+Bone
+S
+O
+P3
+av 0/4
+CN 104 757 22
+OK (9 V or more)
+Harness defect between CN104 and MB connector
+NG (less than 9 V)
+CPU board defect
+quote
+CPV
+5-60
+0131 ZE CB 2 MB ( EGM EXC)

@@ -7,6 +7,10 @@ from services.llms.bedrock_services import BedrockService
 router = APIRouter()
 bedrock_service = BedrockService()
 
+@router.post('/chat')
+async def main_chat(basic_chat_request: BasicChatRequest):
+    return bedrock_service.simple_chat(basic_chat_request)
+
 @router.post('/chat/basic')
 async def basic_chat(basic_chat_request: BasicChatRequest):
     return bedrock_service.simple_chat(basic_chat_request)
@@ -26,3 +30,7 @@ async def stream_chat(basic_chat_request: BasicChatRequest):
 @router.post('/chat/retriever')
 async def retriever_chat(basic_chat_request: BasicChatRequest):
     return bedrock_service.retriever_chat(basic_chat_request)
+
+@router.post('/chain')
+async def chain_info_search(basic_chat_request: BasicChatRequest):
+    return bedrock_service.chain_information(basic_chat_request)

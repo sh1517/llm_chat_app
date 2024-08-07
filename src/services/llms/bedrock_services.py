@@ -4,6 +4,8 @@ from langchain.output_parsers.json import parse_and_check_json_markdown
 
 from services.chains.chain_manager import ChainManager
 
+from langchain_core.runnables import RunnableParallel, RunnableAssign, RunnableBinding
+from langchain_core.runnables.configurable import RunnableConfigurableAlternatives
 from models.basic_chat_request import BasicChatRequest
 
 class BedrockService:
@@ -13,7 +15,8 @@ class BedrockService:
         self.chain_manager = ChainManager()
 
     def simple_chat(self, basic_chat_request: BasicChatRequest):
-        return self.chain_manager.simple_chat_chain(basic_chat_request.message)
+        # return self.chain_manager.simple_chat_chain(basic_chat_request.message)
+        return self.chain_manager.simple_chat_chain(basic_chat_request)
     
     def memory_chat(self, basic_chat_request: BasicChatRequest):
         return self.chain_manager.memory_chat_chain(basic_chat_request.message, basic_chat_request.session_id)
@@ -47,3 +50,7 @@ class BedrockService:
     
     def retriever_chat(self, basic_chat_request: BasicChatRequest):
         return self.chain_manager.retriever_chat_chain(basic_chat_request.message)
+    
+    def chain_information(self, basic_chat_request: BasicChatRequest):
+        res = self.chain_manager.chain_information_response(basic_chat_request)
+        return res.last.mapper.steps__['answer'].last

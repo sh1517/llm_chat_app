@@ -1,26 +1,27 @@
 from langchain_community.vectorstores import FAISS
 from langchain_community.retrievers import BM25Retriever
+from langchain_community.document_loaders import TextLoader
 
 from langchain.docstore.document import Document
+from langchain_text_splitters import CharacterTextSplitter
 
 from services.embeddings.embedding_manager import EmbeddingManager
 
-# embedding = EmbeddingManager()
-sample_contents = ['바퀴에 구멍이 나면 지게차 바퀴 교체가 필요합니다.', 
-                   '지게차에서 탄 냄새가 나면 엔진 오일을 갈아야 합니다.', 
-                   '브레이크가 동작하지 않아서 브레이크 패드를 교체해야 합니다.', 
-                   '필터에 먼지가 보여 연료 필터를 청소했습니다.']
+# loader = TextLoader("../../databases/toyota_manual.txt", encoding='utf-8')
+# toyota_manual_content = loader.load()
+text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
 
-def create_retrives(documents: list = []):
-    docs = []
-    for doc in documents:
-        docs.append(Document(page_content=doc))
 
-    # vectorstore = FAISS.from_documents(docs, embedding=embedding)
-    vectorstore = BM25Retriever.from_documents(docs)
+def create_retrives(contents: str):
+    documents = text_splitter.split_documents(contents)
+
+    # vectorstore = FAISS.from_documents(documents, embedding=EmbeddingManager().get_embeddings('BAAI/bge-m3'))
+    # vectorstore.save_local("./toyota_manual")
     # retriever = vectorstore.as_retriever()
 
-    return vectorstore
+    retriever = BM25Retriever.from_documents(documents)
+
+    return retriever
 
 
 class RetrieverManager:
@@ -33,4 +34,5 @@ class RetrieverManager:
         return cls._instance
     
     def __init__(self):
-        self.retrievers['manual'] = create_retrives(sample_contents)
+        # self.retrievers['manual'] = create_retrives(toyota_manual_content)
+        pass

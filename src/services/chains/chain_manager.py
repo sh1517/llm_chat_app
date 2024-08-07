@@ -64,7 +64,7 @@ def chain_maker(memory=False, prompt=None, model_params=None, vector_db=False, r
             | StrOutputParser()
         )
 
-    return chain
+    return chain.assign()
 
 class ChainManager:
     chains = {}
@@ -82,9 +82,18 @@ class ChainManager:
         self.chains['retrievers'] = chain_maker(memory=False, prompt=chat_template.rag_chat_template(), retrievers=True)
         self.chains['multi_turn_extractor'] = chain_maker(memory=False, prompt=chat_template.multi_turn_chat_template())
 
-    def simple_chat_chain(self, message: str):
-        return self.chains['basic'].invoke(message)
-        # return basic_chat_request.message
+    def chain_information_response(self, basic_chat_request: BasicChatRequest):
+        return RunnableParallel({"input": RunnablePassthrough()}).assign(answer=(
+            {"input": RunnablePassthrough()} 
+            | self.chains['basic'].with_config(configurable={"llm": basic_chat_request.llm})
+        ))
+
+    def simple_chat_chain(self, basic_chat_request: BasicChatRequest):
+        # return self.chains['basic'].invoke(basic_chat_request.message)
+        chain = RunnableParallel({"input": RunnablePassthrough()}).assign(answer=({"input": RunnablePassthrough()} | 
+                                                                                  self.chains['basic']))
+        return chain.invoke(basic_chat_request.message,
+                            config={"configurable": {"llm": basic_chat_request.llm}})
 
     def memory_chat_chain(self, message: str, session_id: str):
         return self.chains['memory'].invoke({'input': message},  

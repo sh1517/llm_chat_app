@@ -8,19 +8,18 @@ LLM_MODEL_LIST = {
 }
 
 class MultiTurn(BaseModel):
-    model_name: Optional[str] = None
-    abnormal_part: Optional[str] = None
-    abnormal_symptom: Optional[str] = None
+    model_name: Optional[str] = None    # 
+    error_code: Optional[str] = None
 
 
 class BasicChatRequest(BaseModel):
     connection_id: str = "01F8MECHZX3TBDSZ7N4J8B0F4X"
     message_id: str = "01F8MECHZX3TBDSZ7N4J8B0F4Y"
     session_id: str = "01F8MECHZX3TBDSZ7N4J8B0F4Z"
-    conversation_type: Optional[str] = None
-    knowledge_type: Optional[str] = None
+    conversation_type: Optional[str] = "general" # 
+    knowledge_type: Optional[str] = None # manual / maintenance
     message: Optional[str] = None
-    llm: Optional[str] = None
+    llm: Optional[str] = "opus"   # haiku / opus / sonnet
     multi_turn: Optional[MultiTurn] = None
 
     @validator("llm", pre=True, always=True)
